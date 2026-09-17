@@ -33,4 +33,4 @@ Also contributing upstream where the agent ecosystem is being built — currentl
 an arXiv data-source connector for
 [cognee](https://github.com/topoteretes/cognee-community/pull/192).
 
-📫 azougamine25@icloud.com
+📫 paranoyouz@gmail.com

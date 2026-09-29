@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 32 open-source fixes merged into 23 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 33 open-source fixes merged into 24 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 ### Merged upstream
@@ -9,8 +9,8 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 45.6k | Name every Kokoro language from the installed table |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 41.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 45.9k | Name every Kokoro language from the installed table |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 41.8k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 21.6k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 21.5k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
@@ -28,12 +28,13 @@
 | [snapotter-hq/SnapOtter #1230](https://github.com/snapotter-hq/SnapOtter/pull/1230) | 2.8k | Reject non-finite zoom so a zero-distance pinch can't store NaN |
 | [snapotter-hq/SnapOtter #1231](https://github.com/snapotter-hq/SnapOtter/pull/1231) | 2.8k | Log a failed deep-enhance pass instead of swallowing it |
 | [snapotter-hq/SnapOtter #1247](https://github.com/snapotter-hq/SnapOtter/pull/1247) | 2.8k | Importer catches dropped rows on a pre-populated `--force` target |
+| [rust-lang/libc #5560](https://github.com/rust-lang/libc/pull/5560) | 2.6k | Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants |
 | [jsverse/transloco #1026](https://github.com/jsverse/transloco/pull/1026) | 2.3k | Honor the sort option for `.pot` output |
 | [zzet/gortex #826](https://github.com/zzet/gortex/pull/826) | 1.8k | Skip comments and string literals in the VB.NET call scan |
 | [unstablebuild/rune #141](https://github.com/unstablebuild/rune/pull/141) | 1.2k | Space toggles multi-select boxes, and Enter no longer submits nil |
-| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 915 | Read a native label for any labelable element, not just form fields |
-| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 915 | Stop telling a bare-getter store that no store is registered |
-| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 915 | Stop treating a bumped version token as a dropped write |
+| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 916 | Read a native label for any labelable element, not just form fields |
+| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 916 | Stop telling a bare-getter store that no store is registered |
+| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 916 | Stop treating a bumped version token as a dropped write |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 846 | Set the Apple deployment target for rustc from the linker args |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 839 | Accept the dsh provider in PricingProviderSchema |

@@ -21,6 +21,7 @@
   "reticlehq/reticle#1170": "Stop telling a bare-getter store that no store is registered",
   "reticlehq/reticle#1182": "Stop treating a bumped version token as a dropped write",
   "rust-fuzz/arbitrary#242": "Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71",
+  "rust-lang/libc#5560": "Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants",
   "skyhook-io/radar#1895": "Detect revisioned `istiod` deployments by label",
   "snapotter-hq/SnapOtter#1229": "Auto-orient no longer re-compresses photos at default quality",
   "snapotter-hq/SnapOtter#1230": "Reject non-finite zoom so a zero-distance pinch can't store NaN",

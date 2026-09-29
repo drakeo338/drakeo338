@@ -14,9 +14,10 @@ conventional-commit prefix such as "fix(engine): " is stripped and the first
 letter is capitalised), and that entry is written back to data/fixes.json so
 it can be hand-edited afterwards.
 
-The fix counts embedded in README.md's image alt text and in both card SVGs
-("N open-source fixes merged into M projects" / "M projects (N PRs)") are
-updated to match.
+The fix counts embedded in README.md's image alt text and in every SVG under
+assets/ ("N open-source fixes merged into M projects", "M projects (N PRs)",
+and the tile numbers marked class="n-prs" / class="n-projects") are updated
+to match. scripts/build_assets.py regenerates those SVGs from scratch.
 
 Usage:
     GH_TOKEN=... python3 scripts/refresh.py [--dry-run]
@@ -38,8 +39,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 FIXES = ROOT / "data" / "fixes.json"
-CARD_LIGHT = ROOT / "assets" / "card-light.svg"
-CARD_DARK = ROOT / "assets" / "card-dark.svg"
+ASSETS = ROOT / "assets"  # every SVG in here gets its counts rewritten
 
 OWNER = "drakeo338"
 API = "https://api.github.com"
@@ -55,6 +55,8 @@ CONVENTIONAL_TYPES = (
 PREFIX_RE = re.compile(rf"^{CONVENTIONAL_TYPES}(\([^)]*\))?!?:\s*", re.IGNORECASE)
 COUNT_RE = re.compile(r"\d+ open-source fixes merged into \d+ projects")
 PROJECTS_PRS_RE = re.compile(r"\d+ projects \(\d+ PRs\)")
+N_PRS_RE = re.compile(r'(class="n-prs">)\d+(<)')
+N_PROJECTS_RE = re.compile(r'(class="n-projects">)\d+(<)')
 PR_URL_RE = re.compile(r"^https://github\.com/([^/]+)/([^/]+)/pull/(\d+)$")
 README_ROW_RE = re.compile(
     r"^\|\s*\[([^/\]]+)/([^\]#]+?)\s*#(\d+)\]\([^)]*\)\s*\|\s*[^|]+\|\s*(.+?)\s*\|\s*$"
@@ -190,6 +192,8 @@ def replace_between_markers(text, table_body):
 def update_counts(text, merged_count, project_count):
     text = COUNT_RE.sub(f"{merged_count} open-source fixes merged into {project_count} projects", text)
     text = PROJECTS_PRS_RE.sub(f"{project_count} projects ({merged_count} PRs)", text)
+    text = N_PRS_RE.sub(lambda m: f"{m.group(1)}{merged_count}{m.group(2)}", text)
+    text = N_PROJECTS_RE.sub(lambda m: f"{m.group(1)}{project_count}{m.group(2)}", text)
     return text
 
 
@@ -249,9 +253,7 @@ def main(argv):
     text = update_counts(text, merged_count, project_count)
     README.write_text(text)
 
-    for path in (CARD_LIGHT, CARD_DARK):
-        if not path.exists():
-            continue
+    for path in sorted(ASSETS.glob("*.svg")):
         svg = path.read_text()
         svg = update_counts(svg, merged_count, project_count)
         path.write_text(svg)

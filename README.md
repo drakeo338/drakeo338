@@ -21,7 +21,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,rust,go,bash&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Crust%2Cgo%2Cbash&theme=dark">
     <img alt="Python, TypeScript, JavaScript, Rust, Go, Bash" src="https://skillicons.dev/icons?i=py,ts,js,rust,go,bash&theme=light">
   </picture>
 </p>

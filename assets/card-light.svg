@@ -46,8 +46,8 @@
 <circle cx="400" cy="72" r="4" fill="#0b63a8"/>
 <text class="kick" x="412" y="76">open-source contributor · Rennes School of Business</text>
 <text class="name" x="396" y="124" fill="url(#tg)">Younes Beriane</text>
-<text class="line" x="396" y="158">I find real bugs in other people's projects</text>
-<text class="line" x="396" y="180">and send small, tested fixes.</text>
+<text class="line" x="396" y="158">Shipping fixes to widely used open-source</text>
+<text class="line" x="396" y="180">projects, merged by their maintainers.</text>
 <rect x="396" y="202" width="150" height="64" rx="12" fill="rgba(255,255,255,.72)" stroke="#d3dbe7"/>
 <text class="num" x="412" y="235"><tspan class="n-prs">40</tspan></text>
 <text class="lbl" x="412" y="253">MERGED PRS</text>

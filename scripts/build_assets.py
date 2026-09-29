@@ -244,8 +244,8 @@ def card(pal, prs, projects, mobile=False):
             f'<circle cx="{cx + 4}" cy="{ky - 4}" r="4" fill="{pal["accent"]}"/>',
             f'<text class="kick" x="{cx + 16}" y="{ky}">open-source contributor · Rennes SB</text>',
             f'<text class="name" x="{cx}" y="{ky + 44}" fill="url(#tg)">Younes Beriane</text>',
-            f'<text class="line" x="{cx}" y="{ky + 76}">I find real bugs in other people\'s</text>',
-            f'<text class="line" x="{cx}" y="{ky + 98}">projects and send small, tested fixes.</text>',
+            f'<text class="line" x="{cx}" y="{ky + 76}">Shipping fixes to widely used</text>',
+            f'<text class="line" x="{cx}" y="{ky + 98}">open-source projects.</text>',
         ]
         ty = ky + 122
         tiles = [(cx, 206, "n-prs", prs, "MERGED PRS"), (cx + 226, 206, "n-projects", projects, "PROJECTS")]
@@ -270,8 +270,8 @@ def card(pal, prs, projects, mobile=False):
             f'<circle cx="{cx + 4}" cy="{ky - 4}" r="4" fill="{pal["accent"]}"/>',
             f'<text class="kick" x="{cx + 16}" y="{ky}">open-source contributor · Rennes School of Business</text>',
             f'<text class="name" x="{cx}" y="{ky + 48}" fill="url(#tg)">Younes Beriane</text>',
-            f'<text class="line" x="{cx}" y="{ky + 82}">I find real bugs in other people\'s projects</text>',
-            f'<text class="line" x="{cx}" y="{ky + 104}">and send small, tested fixes.</text>',
+            f'<text class="line" x="{cx}" y="{ky + 82}">Shipping fixes to widely used open-source</text>',
+            f'<text class="line" x="{cx}" y="{ky + 104}">projects, merged by their maintainers.</text>',
         ]
         ty = ky + 126
         tiles = [(cx, 150, "MERGED PRS", "n-prs", prs), (cx + 162, 150, "PROJECTS", "n-projects", projects)]

@@ -1,7 +1,29 @@
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="waving hand" width="32" height="32"> I'm drakeo338</h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
   <img alt="Y.B. (drakeo338). 33 open-source fixes merged into 24 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D9822B&center=true&vCenter=true&width=520&height=40&lines=Fixing+bugs+in+open+source;Small+PRs%2C+real+fixes;Tests+included" alt="Fixing bugs in open source. Small PRs, real fixes. Tests included.">
+</p>
+
+<p align="center">I find real bugs in other people's projects and send small, tested fixes.</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=drakeo338&theme=github-dark-blue&hide_border=true">
+    <img alt="GitHub contribution streak for drakeo338" src="https://streak-stats.demolab.com?user=drakeo338&theme=default&hide_border=true&background=00000000">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,rust,go,bash&theme=dark">
+    <img alt="Python, TypeScript, JavaScript, Rust, Go, Bash" src="https://skillicons.dev/icons?i=py,ts,js,rust,go,bash&theme=light">
+  </picture>
+</p>
 
 ### Merged upstream
 
@@ -42,3 +64,11 @@
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 446 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 446 | Match latency report by path, not length delta (closes #3642) |
 <!-- merged:end -->
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drakeo338/drakeo338/output/github-snake-dark.svg">
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/drakeo338/drakeo338/output/github-snake.svg">
+  </picture>
+</p>

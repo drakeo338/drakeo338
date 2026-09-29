@@ -32,8 +32,8 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 47.3k | Name every Kokoro language from the installed table |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 42.5k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 47.4k | Name every Kokoro language from the installed table |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 42.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 21.8k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 21.7k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
@@ -58,15 +58,15 @@
 | [zzet/gortex #826](https://github.com/zzet/gortex/pull/826) | 1.8k | Skip comments and string literals in the VB.NET call scan |
 | [LargeModGames/spotatui #648](https://github.com/LargeModGames/spotatui/pull/648) | 1.4k | Show the rebound key in on-screen hints, not the default |
 | [unstablebuild/rune #141](https://github.com/unstablebuild/rune/pull/141) | 1.2k | Space toggles multi-select boxes, and Enter no longer submits nil |
-| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 916 | Read a native label for any labelable element, not just form fields |
-| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 916 | Stop telling a bare-getter store that no store is registered |
-| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 916 | Stop treating a bumped version token as a dropped write |
-| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 916 | Recognise a corepack-only package manager instead of refusing it |
-| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 916 | Reject unrecognised seedStorage keys instead of stripping them |
-| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 916 | Count a live session as connection evidence in initialize |
+| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 917 | Read a native label for any labelable element, not just form fields |
+| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 917 | Stop telling a bare-getter store that no store is registered |
+| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 917 | Stop treating a bumped version token as a dropped write |
+| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 917 | Recognise a corepack-only package manager instead of refusing it |
+| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 917 | Reject unrecognised seedStorage keys instead of stripping them |
+| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 917 | Count a live session as connection evidence in initialize |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 846 | Set the Apple deployment target for rustc from the linker args |
-| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 841 | Accept the dsh provider in PricingProviderSchema |
+| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 842 | Accept the dsh provider in PricingProviderSchema |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 698 | Add h/l as panel-nav aliases to help and docs |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 446 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 446 | Match latency report by path, not length delta (closes #3642) |

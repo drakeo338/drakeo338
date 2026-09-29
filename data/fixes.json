@@ -29,6 +29,7 @@
   "reticlehq/reticle#1192": "Count a live session as connection evidence in initialize",
   "rust-fuzz/arbitrary#242": "Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71",
   "rust-lang/libc#5560": "Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants",
+  "selimfirat/pysad#213": "Accept plain lists in PYODScoreEnsembler.transform_partial",
   "skyhook-io/radar#1895": "Detect revisioned `istiod` deployments by label",
   "snapotter-hq/SnapOtter#1229": "Auto-orient no longer re-compresses photos at default quality",
   "snapotter-hq/SnapOtter#1230": "Reject non-finite zoom so a zero-distance pinch can't store NaN",

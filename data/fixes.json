@@ -13,6 +13,7 @@
   "apmantza/pi-lens#3486": "Mark late auxiliary coverage at notify time, not at ceiling expiry",
   "apmantza/pi-lens#3643": "Match latency report by path, not length delta (closes #3642)",
   "bazelbuild/rules_rust#4282": "Set the Apple deployment target for rustc from the linker args",
+  "code-yeongyu/oh-my-openagent#9242": "Sandbox OMO_MEMORY_HOME in isolatedChildEnv",
   "conorbronsdon/avoid-ai-writing#359": "Require a vague close for false-concession",
   "debpalash/VoiceStudio#2174": "Name every Kokoro language from the installed table",
   "desplega-ai/agent-swarm#1652": "Accept the dsh provider in PricingProviderSchema",

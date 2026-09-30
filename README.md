@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 56 open-source fixes merged into 36 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 58 open-source fixes merged into 38 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -34,17 +34,18 @@
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 390.9k | Pass the responding agent to summary model acquisition |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 50k | Name every Kokoro language from the installed table |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 43.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 22.9k | Suggest columns inside select-list function calls (Fixes #10170) |
-| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.1k | Reposition help card as formula text grows |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 50.1k | Name every Kokoro language from the installed table |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 43.8k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 23k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.2k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 16.9k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.6k | Skip pause dispatch for an already Paused BatchSandbox |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.2k | Keep checkpoint snapshot ids unique across restarts |
-| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 7.9k | Re-arm lazy tools from history after a plugin reload |
+| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8k | Re-arm lazy tools from history after a plugin reload |
 | [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 7.8k | Slice per-layer config lists so shrunk models save again |
 | [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 7.8k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
 | [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 7.8k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
@@ -54,6 +55,7 @@
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.3k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
 | [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 4.8k | Require a vague close for false-concession |
+| [ministackorg/ministack #1855](https://github.com/ministackorg/ministack/pull/1855) | 4.8k | Report a bare-string RIE timeout as a function error |
 | [eugeniughelbur/obsidian-second-brain #310](https://github.com/eugeniughelbur/obsidian-second-brain/pull/310) | 4.7k | Resolve `bash` by path so WSL's launcher never runs the test suite |
 | [kirodotdev/KiroCrew #15120](https://github.com/kirodotdev/KiroCrew/pull/15120) | 4.2k | Keep the answer visible when a recycle notice trails it |
 | [kirodotdev/KiroCrew #15127](https://github.com/kirodotdev/KiroCrew/pull/15127) | 4.2k | Keep deleted semantic facts deleted on automated writes |
@@ -81,7 +83,7 @@
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 847 | Set the Apple deployment target for rustc from the linker args |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 845 | Accept the dsh provider in PricingProviderSchema |
-| [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 700 | Add h/l as panel-nav aliases to help and docs |
+| [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 702 | Add h/l as panel-nav aliases to help and docs |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 447 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 447 | Match latency report by path, not length delta (closes #3642) |
 | [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 304 | Forward observe through the worker bridge |

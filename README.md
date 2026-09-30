@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 41 open-source fixes merged into 29 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 42 open-source fixes merged into 30 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -32,10 +32,10 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 47.8k | Name every Kokoro language from the installed table |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 42.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 21.9k | Suggest columns inside select-list function calls (Fixes #10170) |
-| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 21.8k | Reposition help card as formula text grows |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 48.1k | Name every Kokoro language from the installed table |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 42.8k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 22k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 21.9k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 16.9k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
@@ -47,6 +47,7 @@
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
 | [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 4.8k | Require a vague close for false-concession |
 | [eugeniughelbur/obsidian-second-brain #310](https://github.com/eugeniughelbur/obsidian-second-brain/pull/310) | 4.6k | Resolve `bash` by path so WSL's launcher never runs the test suite |
+| [kirodotdev/KiroCrew #15127](https://github.com/kirodotdev/KiroCrew/pull/15127) | 4.2k | Keep deleted semantic facts deleted on automated writes |
 | [skyhook-io/radar #1895](https://github.com/skyhook-io/radar/pull/1895) | 3.5k | Detect revisioned `istiod` deployments by label |
 | [neomjs/neo #19154](https://github.com/neomjs/neo/pull/19154) | 3.3k | `isA()` walks past `component.Base` to any ancestor |
 | [snapotter-hq/SnapOtter #1229](https://github.com/snapotter-hq/SnapOtter/pull/1229) | 2.8k | Auto-orient no longer re-compresses photos at default quality |
@@ -58,12 +59,12 @@
 | [zzet/gortex #826](https://github.com/zzet/gortex/pull/826) | 1.8k | Skip comments and string literals in the VB.NET call scan |
 | [LargeModGames/spotatui #648](https://github.com/LargeModGames/spotatui/pull/648) | 1.4k | Show the rebound key in on-screen hints, not the default |
 | [unstablebuild/rune #141](https://github.com/unstablebuild/rune/pull/141) | 1.2k | Space toggles multi-select boxes, and Enter no longer submits nil |
-| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 959 | Read a native label for any labelable element, not just form fields |
-| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 959 | Stop telling a bare-getter store that no store is registered |
-| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 959 | Stop treating a bumped version token as a dropped write |
-| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 959 | Recognise a corepack-only package manager instead of refusing it |
-| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 959 | Reject unrecognised seedStorage keys instead of stripping them |
-| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 959 | Count a live session as connection evidence in initialize |
+| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 974 | Read a native label for any labelable element, not just form fields |
+| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 974 | Stop telling a bare-getter store that no store is registered |
+| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 974 | Stop treating a bumped version token as a dropped write |
+| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 974 | Recognise a corepack-only package manager instead of refusing it |
+| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 974 | Reject unrecognised seedStorage keys instead of stripping them |
+| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 974 | Count a live session as connection evidence in initialize |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 846 | Set the Apple deployment target for rustc from the linker args |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 844 | Accept the dsh provider in PricingProviderSchema |

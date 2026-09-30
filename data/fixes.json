@@ -6,6 +6,7 @@
   "MakazhanAlpamys/Soup#1256": "Slice per-layer config lists so shrunk models save again",
   "MakazhanAlpamys/Soup#1377": "Strip ANSI/wrap before asserting the #808 guard stayed silent",
   "MakazhanAlpamys/Soup#1382": "Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD",
+  "MakazhanAlpamys/Soup#1456": "Thread --trust-remote-code to every load it was silently dropped from",
   "MakazhanAlpamys/Soup#1473": "Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases",
   "TabularisDB/tabularis#831": "Restore DataGrid scroll position across tab switches",
   "Tencent/BrowserSkill#283": "Re-arm lazy tools from history after a plugin reload",

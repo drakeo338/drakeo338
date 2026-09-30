@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 44 open-source fixes merged into 30 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 50 open-source fixes merged into 34 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -31,29 +31,35 @@
 <!-- merged:start -->
 | Project | Stars | Fix |
 |---|--:|---|
+| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 390.8k | Pass the responding agent to summary model acquisition |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 48.5k | Name every Kokoro language from the installed table |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 43k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 22.3k | Suggest columns inside select-list function calls (Fixes #10170) |
-| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 21.9k | Reposition help card as formula text grows |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 48.9k | Name every Kokoro language from the installed table |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 43.2k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 22.4k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 16.9k | Replace a legacy OpenWiki section instead of appending a duplicate |
+| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.6k | Skip pause dispatch for an already Paused BatchSandbox |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
+| [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.2k | Keep checkpoint snapshot ids unique across restarts |
 | [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 7.9k | Re-arm lazy tools from history after a plugin reload |
 | [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 7.7k | Slice per-layer config lists so shrunk models save again |
 | [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 7.7k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
 | [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 7.7k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
+| [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.2k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
 | [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 4.8k | Require a vague close for false-concession |
 | [eugeniughelbur/obsidian-second-brain #310](https://github.com/eugeniughelbur/obsidian-second-brain/pull/310) | 4.6k | Resolve `bash` by path so WSL's launcher never runs the test suite |
 | [kirodotdev/KiroCrew #15127](https://github.com/kirodotdev/KiroCrew/pull/15127) | 4.2k | Keep deleted semantic facts deleted on automated writes |
-| [skyhook-io/radar #1895](https://github.com/skyhook-io/radar/pull/1895) | 3.5k | Detect revisioned `istiod` deployments by label |
+| [skyhook-io/radar #1895](https://github.com/skyhook-io/radar/pull/1895) | 3.6k | Detect revisioned `istiod` deployments by label |
 | [neomjs/neo #19154](https://github.com/neomjs/neo/pull/19154) | 3.3k | `isA()` walks past `component.Base` to any ancestor |
 | [snapotter-hq/SnapOtter #1229](https://github.com/snapotter-hq/SnapOtter/pull/1229) | 2.8k | Auto-orient no longer re-compresses photos at default quality |
 | [snapotter-hq/SnapOtter #1230](https://github.com/snapotter-hq/SnapOtter/pull/1230) | 2.8k | Reject non-finite zoom so a zero-distance pinch can't store NaN |
 | [snapotter-hq/SnapOtter #1231](https://github.com/snapotter-hq/SnapOtter/pull/1231) | 2.8k | Log a failed deep-enhance pass instead of swallowing it |
 | [snapotter-hq/SnapOtter #1247](https://github.com/snapotter-hq/SnapOtter/pull/1247) | 2.8k | Importer catches dropped rows on a pre-populated `--force` target |
+| [snapotter-hq/SnapOtter #1638](https://github.com/snapotter-hq/SnapOtter/pull/1638) | 2.8k | Accept a missing memory.max at the cgroup v2 root |
+| [snapotter-hq/SnapOtter #1650](https://github.com/snapotter-hq/SnapOtter/pull/1650) | 2.8k | Keep DATA_DIR and LOG_DIR inside each fork's own directory |
 | [snapotter-hq/SnapOtter #1663](https://github.com/snapotter-hq/SnapOtter/pull/1663) | 2.8k | Stop the split tile busy timer outliving its download |
 | [snapotter-hq/SnapOtter #1667](https://github.com/snapotter-hq/SnapOtter/pull/1667) | 2.8k | Let 5xx errors through the tool routes' 422 catch-all |
 | [rust-lang/libc #5560](https://github.com/rust-lang/libc/pull/5560) | 2.6k | Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants |

@@ -36,6 +36,8 @@
   "snapotter-hq/SnapOtter#1230": "Reject non-finite zoom so a zero-distance pinch can't store NaN",
   "snapotter-hq/SnapOtter#1231": "Log a failed deep-enhance pass instead of swallowing it",
   "snapotter-hq/SnapOtter#1247": "Importer catches dropped rows on a pre-populated `--force` target",
+  "snapotter-hq/SnapOtter#1663": "Stop the split tile busy timer outliving its download",
+  "snapotter-hq/SnapOtter#1667": "Let 5xx errors through the tool routes' 422 catch-all",
   "t8y2/dbx#10275": "Suggest columns inside select-list function calls (Fixes #10170)",
   "tw93/Pake#1393": "Set `StartupWMClass` so Linux docks match the window to its launcher",
   "unstablebuild/rune#141": "Space toggles multi-select boxes, and Enter no longer submits nil",

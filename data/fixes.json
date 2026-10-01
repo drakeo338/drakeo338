@@ -57,5 +57,6 @@
   "tw93/Pake#1393": "Set `StartupWMClass` so Linux docks match the window to its launcher",
   "unstablebuild/rune#141": "Space toggles multi-select boxes, and Enter no longer submits nil",
   "vectorize-io/hindsight#4752": "Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x",
+  "zhayujie/CowAgent#3357": "Find the git sub-command after global options in read-only mode",
   "zzet/gortex#826": "Skip comments and string literals in the VB.NET call scan"
 }

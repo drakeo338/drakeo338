@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 59 open-source fixes merged into 39 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 60 open-source fixes merged into 40 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -35,10 +35,11 @@
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.6k | Validate namespace on memory store and memory import |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 50.4k | Name every Kokoro language from the installed table |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 43.9k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 50.6k | Name every Kokoro language from the installed table |
+| [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 23.2k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 23.3k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.2k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 16.9k | Replace a legacy OpenWiki section instead of appending a duplicate |
@@ -85,9 +86,9 @@
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 847 | Set the Apple deployment target for rustc from the linker args |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 846 | Accept the dsh provider in PricingProviderSchema |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 703 | Add h/l as panel-nav aliases to help and docs |
-| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 447 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
-| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 447 | Match latency report by path, not length delta (closes #3642) |
-| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 304 | Forward observe through the worker bridge |
+| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 449 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
+| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 449 | Match latency report by path, not length delta (closes #3642) |
+| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 305 | Forward observe through the worker bridge |
 | [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 295 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->

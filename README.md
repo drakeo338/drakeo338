@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 65 open-source fixes merged into 42 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 68 open-source fixes merged into 43 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -37,7 +37,8 @@
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.8k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.1k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.2k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 51.2k | Say a long reference is too long when no speech-to-text model is installed |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44.2k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
@@ -58,6 +59,8 @@
 | [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 7.9k | Honor --device instead of hard-coding device_map=auto |
 | [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 7.9k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 7.9k | Honour --device in the transformers loader |
+| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.1k | Surface a fetch error in TestsReachingList |
+| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.1k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.3k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
 | [TabularisDB/tabularis #838](https://github.com/TabularisDB/tabularis/pull/838) | 5.1k | Keep scroll position of grids in multi-result panel |
@@ -81,12 +84,12 @@
 | [zzet/gortex #826](https://github.com/zzet/gortex/pull/826) | 1.8k | Skip comments and string literals in the VB.NET call scan |
 | [LargeModGames/spotatui #648](https://github.com/LargeModGames/spotatui/pull/648) | 1.4k | Show the rebound key in on-screen hints, not the default |
 | [unstablebuild/rune #141](https://github.com/unstablebuild/rune/pull/141) | 1.2k | Space toggles multi-select boxes, and Enter no longer submits nil |
-| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 1k | Read a native label for any labelable element, not just form fields |
-| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 1k | Stop telling a bare-getter store that no store is registered |
-| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 1k | Stop treating a bumped version token as a dropped write |
-| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1k | Recognise a corepack-only package manager instead of refusing it |
-| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1k | Reject unrecognised seedStorage keys instead of stripping them |
-| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1k | Count a live session as connection evidence in initialize |
+| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 1.1k | Read a native label for any labelable element, not just form fields |
+| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 1.1k | Stop telling a bare-getter store that no store is registered |
+| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 1.1k | Stop treating a bumped version token as a dropped write |
+| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.1k | Recognise a corepack-only package manager instead of refusing it |
+| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.1k | Reject unrecognised seedStorage keys instead of stripping them |
+| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.1k | Count a live session as connection evidence in initialize |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 849 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 847 | Set the Apple deployment target for rustc from the linker args |

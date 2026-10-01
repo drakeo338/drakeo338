@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 68 open-source fixes merged into 43 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 69 open-source fixes merged into 43 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -31,16 +31,16 @@
 <!-- merged:start -->
 | Project | Stars | Fix |
 |---|--:|---|
-| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 391.1k | Pass the responding agent to summary model acquisition |
+| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 391.2k | Pass the responding agent to summary model acquisition |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.1k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.6k | Validate namespace on memory store and memory import |
+| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.7k | Validate namespace on memory store and memory import |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.8k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.2k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 51.2k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.3k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 51.3k | Say a long reference is too long when no speech-to-text model is installed |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44.2k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44.3k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 23.7k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.2k | Reposition help card as formula text grows |
@@ -51,14 +51,14 @@
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.2k | Keep checkpoint snapshot ids unique across restarts |
 | [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8k | Re-arm lazy tools from history after a plugin reload |
-| [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 7.9k | Slice per-layer config lists so shrunk models save again |
-| [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 7.9k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
-| [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 7.9k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
-| [MakazhanAlpamys/Soup #1454](https://github.com/MakazhanAlpamys/Soup/pull/1454) | 7.9k | Keep the previous artifact when reward synth or adapter fuse fails |
-| [MakazhanAlpamys/Soup #1456](https://github.com/MakazhanAlpamys/Soup/pull/1456) | 7.9k | Thread --trust-remote-code to every load it was silently dropped from |
-| [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 7.9k | Honor --device instead of hard-coding device_map=auto |
-| [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 7.9k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
-| [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 7.9k | Honour --device in the transformers loader |
+| [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 8k | Slice per-layer config lists so shrunk models save again |
+| [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 8k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
+| [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 8k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
+| [MakazhanAlpamys/Soup #1454](https://github.com/MakazhanAlpamys/Soup/pull/1454) | 8k | Keep the previous artifact when reward synth or adapter fuse fails |
+| [MakazhanAlpamys/Soup #1456](https://github.com/MakazhanAlpamys/Soup/pull/1456) | 8k | Thread --trust-remote-code to every load it was silently dropped from |
+| [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8k | Honor --device instead of hard-coding device_map=auto |
+| [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
+| [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8k | Honour --device in the transformers loader |
 | [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.1k | Surface a fetch error in TestsReachingList |
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.1k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.3k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
@@ -82,6 +82,7 @@
 | [rust-lang/libc #5560](https://github.com/rust-lang/libc/pull/5560) | 2.6k | Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants |
 | [jsverse/transloco #1026](https://github.com/jsverse/transloco/pull/1026) | 2.3k | Honor the sort option for `.pot` output |
 | [zzet/gortex #826](https://github.com/zzet/gortex/pull/826) | 1.8k | Skip comments and string literals in the VB.NET call scan |
+| [zzet/gortex #842](https://github.com/zzet/gortex/pull/842) | 1.8k | Install user-level hooks into ~/.claude/settings.json |
 | [LargeModGames/spotatui #648](https://github.com/LargeModGames/spotatui/pull/648) | 1.4k | Show the rebound key in on-screen hints, not the default |
 | [unstablebuild/rune #141](https://github.com/unstablebuild/rune/pull/141) | 1.2k | Space toggles multi-select boxes, and Enter no longer submits nil |
 | [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 1.1k | Read a native label for any labelable element, not just form fields |

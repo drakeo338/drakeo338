@@ -11,6 +11,7 @@
   "MakazhanAlpamys/Soup#1473": "Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases",
   "StellarTickets/backend#322": "Normalize email to lowercase on register and login",
   "TabularisDB/tabularis#831": "Restore DataGrid scroll position across tab switches",
+  "TabularisDB/tabularis#838": "Keep scroll position of grids in multi-result panel",
   "Tencent/BrowserSkill#283": "Re-arm lazy tools from history after a plugin reload",
   "alvinunreal/oh-my-opencode-slim#1369": "Keep checkpoint snapshot ids unique across restarts",
   "apmantza/pi-lens#3486": "Mark late auxiliary coverage at notify time, not at ceiling expiry",

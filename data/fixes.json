@@ -39,6 +39,7 @@
   "neomjs/neo#19154": "`isA()` walks past `component.Base` to any ancestor",
   "openclaw/openclaw#161454": "Pass the responding agent to summary model acquisition",
   "opensandbox-group/OpenSandbox#2082": "Skip pause dispatch for an already Paused BatchSandbox",
+  "qdrant/qdrant#10870": "Fix merge and search with an empty multivector placeholder",
   "repowise-dev/repowise#2632": "Surface a fetch error in TestsReachingList",
   "repowise-dev/repowise#2639": "Keep a matched rg path even at the repo root",
   "reticlehq/reticle#1169": "Read a native label for any labelable element, not just form fields",

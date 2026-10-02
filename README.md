@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 72 open-source fixes merged into 45 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 74 open-source fixes merged into 47 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -34,17 +34,19 @@
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 391.2k | Pass the responding agent to summary model acquisition |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.2k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.8k | Keep grpc response errors out of the request stream |
+| [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75k | Stop update_me setting self-referential changed_by_fk |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.7k | Validate namespace on memory store and memory import |
-| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
+| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.9k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
+| [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.8k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.7k | Name every Kokoro language from the installed table |
 | [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 51.7k | Say a long reference is too long when no speech-to-text model is installed |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44.5k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.6k | Escape a literal exclamation mark before a link |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
 | [qdrant/qdrant #10870](https://github.com/qdrant/qdrant/pull/10870) | 34.9k | Fix merge and search with an empty multivector placeholder |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 23.8k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 23.9k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.3k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 16.9k | Replace a legacy OpenWiki section instead of appending a duplicate |

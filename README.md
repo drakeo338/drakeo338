@@ -34,7 +34,7 @@
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 391.2k | Pass the responding agent to summary model acquisition |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.1k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.7k | Validate namespace on memory store and memory import |
-| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
+| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.8k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.5k | Name every Kokoro language from the installed table |
@@ -98,7 +98,7 @@
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 704 | Add h/l as panel-nav aliases to help and docs |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 453 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 453 | Match latency report by path, not length delta (closes #3642) |
-| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 306 | Forward observe through the worker bridge |
+| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 307 | Forward observe through the worker bridge |
 | [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 296 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->

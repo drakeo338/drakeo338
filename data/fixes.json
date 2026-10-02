@@ -38,6 +38,7 @@
   "mrdoob/three.js#34729": "WebGLBackend: Fix clear() with a disabled color write mask.",
   "multica-ai/multica#8967": "MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth",
   "neomjs/neo#19154": "`isA()` walks past `component.Base` to any ancestor",
+  "nestjs/nest#17972": "Keep grpc response errors out of the request stream",
   "openclaw/openclaw#161454": "Pass the responding agent to summary model acquisition",
   "opensandbox-group/OpenSandbox#2082": "Skip pause dispatch for an already Paused BatchSandbox",
   "qdrant/qdrant#10870": "Fix merge and search with an empty multivector placeholder",

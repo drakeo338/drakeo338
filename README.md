@@ -38,8 +38,8 @@
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.7k | Validate namespace on memory store and memory import |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 51.9k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 51.9k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 52k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 52k | Say a long reference is too long when no speech-to-text model is installed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.9k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 44.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
@@ -52,7 +52,7 @@
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 19.1k | Fingerprint every occurrence of a deduplicated finding |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 16.9k | Replace a legacy OpenWiki section instead of appending a duplicate |
-| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.6k | Skip pause dispatch for an already Paused BatchSandbox |
+| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.7k | Skip pause dispatch for an already Paused BatchSandbox |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.2k | Keep checkpoint snapshot ids unique across restarts |

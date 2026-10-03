@@ -33,6 +33,7 @@
   "jsverse/transloco#1026": "Honor the sort option for `.pot` output",
   "kirodotdev/KiroCrew#15120": "Keep the answer visible when a recycle notice trails it",
   "kirodotdev/KiroCrew#15127": "Keep deleted semantic facts deleted on automated writes",
+  "kirodotdev/KiroCrew#15233": "Log a missing spool without a traceback",
   "langchain-ai/openwiki#914": "Replace a legacy OpenWiki section instead of appending a duplicate",
   "maplibre/maplibre-gl-js#8553": "Globe camera no longer throws when padding exceeds the viewport",
   "maplibre/maplibre-gl-js#8554": "Color relief no longer packs to NaN when a DEM channel factor is 0",

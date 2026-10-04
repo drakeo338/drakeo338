@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 83 open-source fixes merged into 53 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 84 open-source fixes merged into 54 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -35,6 +35,7 @@
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.2k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.8k | Keep grpc response errors out of the request stream |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75k | Stop update_me setting self-referential changed_by_fk |
+| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 74.4k | Keep the upstream 4xx status on send_message errors |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.9k | Validate namespace on memory store and memory import |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.4k | Let the extension pick between OLE2 legacy Office formats |
@@ -43,7 +44,7 @@
 | [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 53.1k | Say a long reference is too long when no speech-to-text model is installed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 51.9k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 45.4k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 45.5k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.6k | Escape a literal exclamation mark before a link |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
 | [solidjs/solid #3730](https://github.com/solidjs/solid/pull/3730) | 36.1k | Exit raw text mode after a self-closing raw text element |

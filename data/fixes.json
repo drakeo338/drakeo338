@@ -27,6 +27,7 @@
   "debpalash/VoiceStudio#2174": "Name every Kokoro language from the installed table",
   "debpalash/VoiceStudio#2444": "Say a long reference is too long when no speech-to-text model is installed",
   "desplega-ai/agent-swarm#1652": "Accept the dsh provider in PricingProviderSchema",
+  "docling-project/docling#4476": "Let the extension pick between OLE2 legacy Office formats",
   "dream-num/univer#7744": "Reposition help card as formula text grows",
   "eosphoros-ai/DB-GPT#3264": "Connector confirm endpoints now require the API key",
   "eugeniughelbur/obsidian-second-brain#310": "Resolve `bash` by path so WSL's launcher never runs the test suite",

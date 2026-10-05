@@ -64,6 +64,7 @@
   "ruvnet/ruflo#3571": "Validate namespace on memory store and memory import",
   "selimfirat/pysad#213": "Accept plain lists in PYODScoreEnsembler.transform_partial",
   "semantica-agi/semantica#1844": "Build the PageRank adjacency once for a graph dict, not per node",
+  "semantica-agi/semantica#1847": "Sync the facade mirror on backend update_vectors",
   "skyhook-io/radar#1895": "Detect revisioned `istiod` deployments by label",
   "snapotter-hq/SnapOtter#1229": "Auto-orient no longer re-compresses photos at default quality",
   "snapotter-hq/SnapOtter#1230": "Reject non-finite zoom so a zero-distance pinch can't store NaN",

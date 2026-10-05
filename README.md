@@ -60,6 +60,7 @@
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.3k | Keep checkpoint snapshot ids unique across restarts |
+| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8.1k | Re-arm lazy tools from history after a plugin reload |
 | [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 8.1k | Slice per-layer config lists so shrunk models save again |
 | [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 8.1k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
 | [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 8.1k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
@@ -68,9 +69,8 @@
 | [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8.1k | Honor --device instead of hard-coding device_map=auto |
 | [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8.1k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8.1k | Honour --device in the transformers loader |
-| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8.1k | Re-arm lazy tools from history after a plugin reload |
-| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.1k | Surface a fetch error in TestsReachingList |
-| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.1k | Keep a matched rg path even at the repo root |
+| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.2k | Surface a fetch error in TestsReachingList |
+| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.2k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.3k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 5.3k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
@@ -106,12 +106,12 @@
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 873 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 875 | Match search_jlcpcb_parts queries word by word |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 858 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 847 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 706 | Add h/l as panel-nav aliases to help and docs |
-| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 457 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
-| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 457 | Match latency report by path, not length delta (closes #3642) |
+| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 458 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
+| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 458 | Match latency report by path, not length delta (closes #3642) |
 | [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 308 | Forward observe through the worker bridge |
 | [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 296 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |

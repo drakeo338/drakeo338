@@ -56,12 +56,11 @@
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
 | [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.7k | Skip pause dispatch for an already Paused BatchSandbox |
-| [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 13.6k | Build the PageRank adjacency once for a graph dict, not per node |
-| [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 13.6k | Sync the facade mirror on backend update_vectors |
+| [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 13.7k | Build the PageRank adjacency once for a graph dict, not per node |
+| [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 13.7k | Sync the facade mirror on backend update_vectors |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.3k | Keep checkpoint snapshot ids unique across restarts |
-| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8.2k | Re-arm lazy tools from history after a plugin reload |
 | [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 8.2k | Slice per-layer config lists so shrunk models save again |
 | [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 8.2k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
 | [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 8.2k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
@@ -70,6 +69,7 @@
 | [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8.2k | Honor --device instead of hard-coding device_map=auto |
 | [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8.2k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8.2k | Honour --device in the transformers loader |
+| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8.2k | Re-arm lazy tools from history after a plugin reload |
 | [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.2k | Surface a fetch error in TestsReachingList |
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.2k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.3k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
@@ -107,7 +107,7 @@
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 882 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 877 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 880 | Match search_jlcpcb_parts queries word by word |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 857 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 848 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 706 | Add h/l as panel-nav aliases to help and docs |

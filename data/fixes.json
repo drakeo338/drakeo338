@@ -55,6 +55,7 @@
   "openclaw/openclaw#161454": "Pass the responding agent to summary model acquisition",
   "opensandbox-group/OpenSandbox#2082": "Skip pause dispatch for an already Paused BatchSandbox",
   "qdrant/qdrant#10870": "Fix merge and search with an empty multivector placeholder",
+  "qdrant/qdrant#10948": "[AI] fix: Reject renaming an alias to an existing collection name",
   "remult/remult#1047": "Update() with undefined/null id fails with not-found error",
   "repowise-dev/repowise#2632": "Surface a fetch error in TestsReachingList",
   "repowise-dev/repowise#2639": "Keep a matched rg path even at the repo root",

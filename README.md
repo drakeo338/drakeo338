@@ -67,14 +67,14 @@
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.3k | Keep checkpoint snapshot ids unique across restarts |
 | [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 9.3k | Keep board snapshots whose anchors survive compaction |
-| [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 8.2k | Slice per-layer config lists so shrunk models save again |
-| [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 8.2k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
-| [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 8.2k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
-| [MakazhanAlpamys/Soup #1454](https://github.com/MakazhanAlpamys/Soup/pull/1454) | 8.2k | Keep the previous artifact when reward synth or adapter fuse fails |
-| [MakazhanAlpamys/Soup #1456](https://github.com/MakazhanAlpamys/Soup/pull/1456) | 8.2k | Thread --trust-remote-code to every load it was silently dropped from |
-| [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8.2k | Honor --device instead of hard-coding device_map=auto |
-| [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8.2k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
-| [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8.2k | Honour --device in the transformers loader |
+| [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 8.3k | Slice per-layer config lists so shrunk models save again |
+| [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 8.3k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
+| [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 8.3k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
+| [MakazhanAlpamys/Soup #1454](https://github.com/MakazhanAlpamys/Soup/pull/1454) | 8.3k | Keep the previous artifact when reward synth or adapter fuse fails |
+| [MakazhanAlpamys/Soup #1456](https://github.com/MakazhanAlpamys/Soup/pull/1456) | 8.3k | Thread --trust-remote-code to every load it was silently dropped from |
+| [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8.3k | Honor --device instead of hard-coding device_map=auto |
+| [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8.3k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
+| [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8.3k | Honour --device in the transformers loader |
 | [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 8.2k | Re-arm lazy tools from history after a plugin reload |
 | [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.2k | Surface a fetch error in TestsReachingList |
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.2k | Keep a matched rg path even at the repo root |
@@ -113,16 +113,16 @@
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
 | [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 889 | Match search_jlcpcb_parts queries word by word |
-| [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
-| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 860 | Accept the dsh provider in PricingProviderSchema |
+| [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
+| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 861 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 848 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 707 | Add h/l as panel-nav aliases to help and docs |
 | [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 570 | Keep queued message out of the reply line and quote the approval question |
 | [YoanWai/agent-manager #644](https://github.com/YoanWai/agent-manager/pull/644) | 570 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 459 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 459 | Match latency report by path, not length delta (closes #3642) |
-| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 307 | Forward observe through the worker bridge |
-| [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 294 | Accept plain lists in PYODScoreEnsembler.transform_partial |
+| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 309 | Forward observe through the worker bridge |
+| [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 295 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->
 

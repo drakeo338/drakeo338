@@ -2,6 +2,7 @@
   "ArcReel/ArcReel#2787": "\u4e3a Gemini 3.1 Flash Lite \u4e0e Qwen3.6 Plus / Flash \u58f0\u660e\u56fe\u7247\u7406\u89e3\u80fd\u529b",
   "ArcReel/ArcReel#2927": "Reject inline base64 that does not decode to PNG, JPEG or WebP",
   "Cotal-AI/Cotal#2252": "Forward observe through the worker bridge",
+  "Fission-AI/OpenSpec#2028": "Find spec and design artifacts by output path",
   "Harry-kp/vortix#361": "Add h/l as panel-nav aliases to help and docs",
   "LargeModGames/spotatui#648": "Show the rebound key in on-screen hints, not the default",
   "MHSanaei/3x-ui#6736": "List clients in the detach/attach modals when they mount open",

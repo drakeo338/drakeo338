@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 89 open-source fixes merged into 57 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 90 open-source fixes merged into 58 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -37,11 +37,12 @@
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75k | Stop update_me setting self-referential changed_by_fk |
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 74.5k | Keep the upstream 4xx status on send_message errors |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 73.9k | Validate namespace on memory store and memory import |
+| [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 71.1k | Find spec and design artifacts by output path |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.4k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 53.7k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 53.7k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 53.8k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 53.8k | Say a long reference is too long when no speech-to-text model is installed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 47.5k | List clients in the detach/attach modals when they mount open |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.2k | Find the git sub-command after global options in read-only mode |
@@ -54,7 +55,7 @@
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 24.8k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.4k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
-| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 19.4k | Fingerprint every occurrence of a deduplicated finding |
+| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 19.5k | Fingerprint every occurrence of a deduplicated finding |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
 | [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.7k | Skip pause dispatch for an already Paused BatchSandbox |
@@ -108,7 +109,7 @@
 | [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.2k | Recognise a corepack-only package manager instead of refusing it |
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 885 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 886 | Match search_jlcpcb_parts queries word by word |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 883 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 858 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 848 | Set the Apple deployment target for rustc from the linker args |

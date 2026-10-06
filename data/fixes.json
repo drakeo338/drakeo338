@@ -22,6 +22,7 @@
   "TriliumNext/Trilium#11895": "Refresh the Markdown preview on note switch",
   "YoanWai/agent-manager#643": "Keep queued message out of the reply line and quote the approval question",
   "YoanWai/agent-manager#644": "Keep pending messages out of the reply line",
+  "abhigyanpatwari/GitNexus#3478": "Run Leiden in a worker so its timeout can fire",
   "alvinunreal/oh-my-opencode-slim#1369": "Keep checkpoint snapshot ids unique across restarts",
   "apache/superset#44866": "Stop update_me setting self-referential changed_by_fk",
   "apmantza/pi-lens#3486": "Mark late auxiliary coverage at notify time, not at ceiling expiry",

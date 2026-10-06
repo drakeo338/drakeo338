@@ -24,6 +24,7 @@
   "YoanWai/agent-manager#644": "Keep pending messages out of the reply line",
   "abhigyanpatwari/GitNexus#3478": "Run Leiden in a worker so its timeout can fire",
   "alvinunreal/oh-my-opencode-slim#1369": "Keep checkpoint snapshot ids unique across restarts",
+  "alvinunreal/oh-my-opencode-slim#1458": "Keep board snapshots whose anchors survive compaction",
   "apache/superset#44866": "Stop update_me setting self-referential changed_by_fk",
   "apmantza/pi-lens#3486": "Mark late auxiliary coverage at notify time, not at ceiling expiry",
   "apmantza/pi-lens#3643": "Match latency report by path, not length delta (closes #3642)",

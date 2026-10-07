@@ -39,18 +39,18 @@
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 74.5k | Keep the upstream 4xx status on send_message errors |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 74k | Validate namespace on memory store and memory import |
 | [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 71.2k | Find spec and design artifacts by output path |
-| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
-| [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 69.8k | Ignore shards created before the test process started |
+| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.9k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
+| [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 69.9k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.5k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 54.3k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 54.3k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 54.4k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 54.4k | Say a long reference is too long when no speech-to-text model is installed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.1k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 47.8k | Run Leiden in a worker so its timeout can fire |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 47.5k | List clients in the detach/attach modals when they mount open |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.3k | Find the git sub-command after global options in read-only mode |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 46.4k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.6k | Escape a literal exclamation mark before a link |
+| [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.7k | Escape a literal exclamation mark before a link |
 | [TriliumNext/Trilium #11895](https://github.com/TriliumNext/Trilium/pull/11895) | 38.2k | Refresh the Markdown preview on note switch |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
 | [solidjs/solid #3730](https://github.com/solidjs/solid/pull/3730) | 36.1k | Exit raw text mode after a self-closing raw text element |
@@ -117,13 +117,13 @@
 | [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.2k | Recognise a corepack-only package manager instead of refusing it |
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 893 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 894 | Match search_jlcpcb_parts queries word by word |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 861 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 849 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 707 | Add h/l as panel-nav aliases to help and docs |
-| [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 572 | Keep queued message out of the reply line and quote the approval question |
-| [YoanWai/agent-manager #644](https://github.com/YoanWai/agent-manager/pull/644) | 572 | Keep pending messages out of the reply line |
+| [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 573 | Keep queued message out of the reply line and quote the approval question |
+| [YoanWai/agent-manager #644](https://github.com/YoanWai/agent-manager/pull/644) | 573 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 459 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 459 | Match latency report by path, not length delta (closes #3642) |
 | [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 309 | Forward observe through the worker bridge |

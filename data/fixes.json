@@ -46,6 +46,7 @@
   "eugeniughelbur/obsidian-second-brain#310": "Resolve `bash` by path so WSL's launcher never runs the test suite",
   "floci-io/floci#5119": "Accept parameter names that start with a digit",
   "floci-io/floci#5120": "Reject an ExecuteStatement response over 1 MiB",
+  "gfx-rs/wgpu#10458": "[naga wgsl-in] Reject loads of types that contain atomics",
   "harry0703/MoneyPrinterTurbo#1585": "Require --video-materials for the local video source",
   "headroomlabs-ai/headroom#3944": "Keep the upstream 4xx status on send_message errors",
   "jsverse/transloco#1026": "Honor the sort option for `.pot` output",

@@ -63,7 +63,7 @@
 | [floci-io/floci #5119](https://github.com/floci-io/floci/pull/5119) | 26.6k | Accept parameter names that start with a digit |
 | [floci-io/floci #5120](https://github.com/floci-io/floci/pull/5120) | 26.6k | Reject an ExecuteStatement response over 1 MiB |
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 25k | Suggest columns inside select-list function calls (Fixes #10170) |
-| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.4k | Reposition help card as formula text grows |
+| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.5k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
 | [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 19.6k | Fingerprint every occurrence of a deduplicated finding |
 | [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.2k | [naga wgsl-in] Reject loads of types that contain atomics |
@@ -127,7 +127,7 @@
 | [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.2k | Recognise a corepack-only package manager instead of refusing it |
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 904 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 905 | Match search_jlcpcb_parts queries word by word |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 867 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 849 | Set the Apple deployment target for rustc from the linker args |
@@ -137,7 +137,7 @@
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 463 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 463 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 463 | Resolve path arguments through one resolver (closes #3988) |
-| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 310 | Forward observe through the worker bridge |
+| [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 311 | Forward observe through the worker bridge |
 | [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 296 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->

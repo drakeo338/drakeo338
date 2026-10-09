@@ -37,28 +37,28 @@
 | [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 77.5k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.8k | Keep grpc response errors out of the request stream |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.1k | Stop update_me setting self-referential changed_by_fk |
-| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 74.7k | Keep the upstream 4xx status on send_message errors |
+| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 74.8k | Keep the upstream 4xx status on send_message errors |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 74.1k | Validate namespace on memory store and memory import |
 | [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 74.1k | Use a key separator the memory validator accepts for edges |
 | [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 71.4k | Find spec and design artifacts by output path |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.9k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 69.9k | Ignore shards created before the test process started |
-| [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.5k | Let the extension pick between OLE2 legacy Office formats |
+| [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.6k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.5k | Fixed uncomping a member not cancelling their complimentary subscription |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 55.2k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 55.2k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 55.3k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 55.3k | Say a long reference is too long when no speech-to-text model is installed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.2k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 47.8k | Run Leiden in a worker so its timeout can fire |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 47.7k | List clients in the detach/attach modals when they mount open |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.3k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.3k | Find the git sub-command after global options in read-only mode |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.2k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [gofiber/fiber #4728](https://github.com/gofiber/fiber/pull/4728) | 40.2k | 🐛 bug: reject static partial wildcard matches that cross a path segment boundary |
 | [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.7k | Escape a literal exclamation mark before a link |
 | [TriliumNext/Trilium #11895](https://github.com/TriliumNext/Trilium/pull/11895) | 38.3k | Refresh the Markdown preview on note switch |
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
 | [solidjs/solid #3730](https://github.com/solidjs/solid/pull/3730) | 36.1k | Exit raw text mode after a self-closing raw text element |
-| [esengine/DeepSeek-Reasonix #11354](https://github.com/esengine/DeepSeek-Reasonix/pull/11354) | 35.7k | Reject npm package names that resolve as paths, tags or tarballs |
+| [esengine/DeepSeek-Reasonix #11354](https://github.com/esengine/DeepSeek-Reasonix/pull/11354) | 35.8k | Reject npm package names that resolve as paths, tags or tarballs |
 | [qdrant/qdrant #10870](https://github.com/qdrant/qdrant/pull/10870) | 35k | Fix merge and search with an empty multivector placeholder |
 | [qdrant/qdrant #10948](https://github.com/qdrant/qdrant/pull/10948) | 35k | [AI] fix: Reject renaming an alias to an existing collection name |
 | [MetaCubeX/mihomo #3283](https://github.com/MetaCubeX/mihomo/pull/3283) | 34.7k | Keep fake-ip allocation state when cloning the pool on reload |
@@ -131,7 +131,7 @@
 | [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.2k | Recognise a corepack-only package manager instead of refusing it |
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 915 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 917 | Match search_jlcpcb_parts queries word by word |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 871 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 849 | Set the Apple deployment target for rustc from the linker args |

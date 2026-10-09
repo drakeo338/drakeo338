@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 113 open-source fixes merged into 68 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 115 open-source fixes merged into 68 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -32,7 +32,7 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 391.5k | Pass the responding agent to summary model acquisition |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 129.2k | Require --video-materials for the local video source |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 129.3k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.2k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 77.6k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.8k | Keep grpc response errors out of the request stream |
@@ -44,14 +44,14 @@
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.9k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 69.9k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.6k | Let the extension pick between OLE2 legacy Office formats |
-| [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 61.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 55.5k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 55.5k | Say a long reference is too long when no speech-to-text model is installed |
+| [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62k | Set `StartupWMClass` so Linux docks match the window to its launcher |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 55.6k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 55.6k | Say a long reference is too long when no speech-to-text model is installed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.5k | Fixed uncomping a member not cancelling their complimentary subscription |
-| [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.2k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
+| [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.3k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 47.8k | Run Leiden in a worker so its timeout can fire |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 47.7k | List clients in the detach/attach modals when they mount open |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.4k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.5k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.3k | Find the git sub-command after global options in read-only mode |
 | [gofiber/fiber #4728](https://github.com/gofiber/fiber/pull/4728) | 40.2k | 🐛 bug: reject static partial wildcard matches that cross a path segment boundary |
 | [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.7k | Escape a literal exclamation mark before a link |
@@ -59,6 +59,7 @@
 | [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.1k | A run that committed undefined is not WASTED_RECOMPUTE |
 | [solidjs/solid #3730](https://github.com/solidjs/solid/pull/3730) | 36.1k | Exit raw text mode after a self-closing raw text element |
 | [esengine/DeepSeek-Reasonix #11354](https://github.com/esengine/DeepSeek-Reasonix/pull/11354) | 35.8k | Reject npm package names that resolve as paths, tags or tarballs |
+| [esengine/DeepSeek-Reasonix #11374](https://github.com/esengine/DeepSeek-Reasonix/pull/11374) | 35.8k | Keep the config edit lock directory per user and refuse a foreign owner |
 | [qdrant/qdrant #10870](https://github.com/qdrant/qdrant/pull/10870) | 35k | Fix merge and search with an empty multivector placeholder |
 | [qdrant/qdrant #10948](https://github.com/qdrant/qdrant/pull/10948) | 35k | [AI] fix: Reject renaming an alias to an existing collection name |
 | [MetaCubeX/mihomo #3283](https://github.com/MetaCubeX/mihomo/pull/3283) | 34.7k | Keep fake-ip allocation state when cloning the pool on reload |
@@ -73,7 +74,7 @@
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 17k | Accept github line anchors on markdown link targets |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
-| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.7k | Skip pause dispatch for an already Paused BatchSandbox |
+| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.8k | Skip pause dispatch for an already Paused BatchSandbox |
 | [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 13.8k | Build the PageRank adjacency once for a graph dict, not per node |
 | [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 13.8k | Sync the facade mirror on backend update_vectors |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
@@ -133,7 +134,7 @@
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
 | [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 917 | Match search_jlcpcb_parts queries word by word |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
-| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 872 | Accept the dsh provider in PricingProviderSchema |
+| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 873 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 849 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 708 | Add h/l as panel-nav aliases to help and docs |
 | [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 578 | Keep queued message out of the reply line and quote the approval question |
@@ -142,6 +143,7 @@
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 465 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 465 | Resolve path arguments through one resolver (closes #3988) |
 | [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 313 | Forward observe through the worker bridge |
+| [Cotal-AI/Cotal #2694](https://github.com/Cotal-AI/Cotal/pull/2694) | 313 | Read the deregister issuance gate through core's reader |
 | [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 295 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->

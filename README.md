@@ -40,18 +40,18 @@
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 74.8k | Keep the upstream 4xx status on send_message errors |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 74.2k | Validate namespace on memory store and memory import |
 | [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 74.2k | Use a key separator the memory validator accepts for edges |
-| [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 71.4k | Find spec and design artifacts by output path |
+| [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 71.5k | Find spec and design artifacts by output path |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 69.9k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 69.9k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.6k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 55.6k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 55.6k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 55.8k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 55.8k | Say a long reference is too long when no speech-to-text model is installed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.5k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.3k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 47.8k | Run Leiden in a worker so its timeout can fire |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 47.7k | List clients in the detach/attach modals when they mount open |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.5k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.3k | Find the git sub-command after global options in read-only mode |
 | [gofiber/fiber #4728](https://github.com/gofiber/fiber/pull/4728) | 40.2k | 🐛 bug: reject static partial wildcard matches that cross a path segment boundary |
 | [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 38.7k | Escape a literal exclamation mark before a link |
@@ -66,17 +66,17 @@
 | [vercel/turborepo #14418](https://github.com/vercel/turborepo/pull/14418) | 31.2k | Preserve symlinked AGENTS.md when updating agent guidance |
 | [floci-io/floci #5119](https://github.com/floci-io/floci/pull/5119) | 26.6k | Accept parameter names that start with a digit |
 | [floci-io/floci #5120](https://github.com/floci-io/floci/pull/5120) | 26.6k | Reject an ExecuteStatement response over 1 MiB |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 25.3k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 25.4k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.5k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.1k | Connector confirm endpoints now require the API key |
-| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 19.7k | Fingerprint every occurrence of a deduplicated finding |
+| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 19.8k | Fingerprint every occurrence of a deduplicated finding |
 | [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.2k | [naga wgsl-in] Reject loads of types that contain atomics |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 17k | Accept github line anchors on markdown link targets |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
 | [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.8k | Skip pause dispatch for an already Paused BatchSandbox |
-| [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 13.8k | Build the PageRank adjacency once for a graph dict, not per node |
-| [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 13.8k | Sync the facade mirror on backend update_vectors |
+| [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 13.9k | Build the PageRank adjacency once for a graph dict, not per node |
+| [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 13.9k | Sync the facade mirror on backend update_vectors |
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.4k | Keep checkpoint snapshot ids unique across restarts |
@@ -92,8 +92,8 @@
 | [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8.4k | Honor --device instead of hard-coding device_map=auto |
 | [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8.4k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8.4k | Honour --device in the transformers loader |
-| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.3k | Surface a fetch error in TestsReachingList |
-| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.3k | Keep a matched rg path even at the repo root |
+| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.4k | Surface a fetch error in TestsReachingList |
+| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.4k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.4k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 5.4k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
@@ -132,13 +132,13 @@
 | [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.2k | Recognise a corepack-only package manager instead of refusing it |
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
-| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 917 | Match search_jlcpcb_parts queries word by word |
+| [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 918 | Match search_jlcpcb_parts queries word by word |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
-| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 873 | Accept the dsh provider in PricingProviderSchema |
+| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 874 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 849 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 708 | Add h/l as panel-nav aliases to help and docs |
-| [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 578 | Keep queued message out of the reply line and quote the approval question |
-| [YoanWai/agent-manager #644](https://github.com/YoanWai/agent-manager/pull/644) | 578 | Keep pending messages out of the reply line |
+| [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 579 | Keep queued message out of the reply line and quote the approval question |
+| [YoanWai/agent-manager #644](https://github.com/YoanWai/agent-manager/pull/644) | 579 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 465 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 465 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 465 | Resolve path arguments through one resolver (closes #3988) |

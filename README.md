@@ -46,8 +46,8 @@
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 69.9k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.6k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 56.7k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 56.7k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 56.8k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 56.8k | Say a long reference is too long when no speech-to-text model is installed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.5k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.4k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 47.9k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
@@ -97,8 +97,8 @@
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.4k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.4k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 5.4k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
-| [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.1k | Restore DataGrid scroll position across tab switches |
-| [TabularisDB/tabularis #838](https://github.com/TabularisDB/tabularis/pull/838) | 5.1k | Keep scroll position of grids in multi-result panel |
+| [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.2k | Restore DataGrid scroll position across tab switches |
+| [TabularisDB/tabularis #838](https://github.com/TabularisDB/tabularis/pull/838) | 5.2k | Keep scroll position of grids in multi-result panel |
 | [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 4.9k | Require a vague close for false-concession |
 | [ministackorg/ministack #1855](https://github.com/ministackorg/ministack/pull/1855) | 4.9k | Report a bare-string RIE timeout as a function error |
 | [ministackorg/ministack #1968](https://github.com/ministackorg/ministack/pull/1968) | 4.9k | Start Node.js and Python functions in the code directory |

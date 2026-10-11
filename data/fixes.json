@@ -86,6 +86,7 @@
   "reticlehq/reticle#1188": "Reject unrecognised seedStorage keys instead of stripping them",
   "reticlehq/reticle#1192": "Count a live session as connection evidence in initialize",
   "rjsf-team/react-jsonschema-form#5397": "Fix getDateTimeLocalValue() for epoch numbers and Date values",
+  "rtk-ai/rtk#4356": "Match namespaced bash tool name in the Vibe hook",
   "rust-fuzz/arbitrary#242": "Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71",
   "rust-lang/libc#5560": "Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants",
   "ruvnet/ruflo#3571": "Validate namespace on memory store and memory import",

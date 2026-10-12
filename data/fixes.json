@@ -30,6 +30,7 @@
   "YoanWai/agent-manager#644": "Keep pending messages out of the reply line",
   "abhigyanpatwari/GitNexus#3478": "Run Leiden in a worker so its timeout can fire",
   "affaan-m/ECC#3267": "Honor CLAUDE_CONFIG_DIR for the default agent data home",
+  "affaan-m/ECC#3525": "Raise on unparseable skill-comply classifier output",
   "alvinunreal/oh-my-opencode-slim#1369": "Keep checkpoint snapshot ids unique across restarts",
   "alvinunreal/oh-my-opencode-slim#1458": "Keep board snapshots whose anchors survive compaction",
   "alvinunreal/oh-my-opencode-slim#1468": "Never store a raw session ID as the agent name",

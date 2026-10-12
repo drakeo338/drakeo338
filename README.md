@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 122 open-source fixes merged into 71 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 124 open-source fixes merged into 72 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -32,9 +32,10 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 391.7k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 277.3k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 277.3k | Raise on unparseable skill-comply classifier output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 129.8k | Require --video-materials for the local video source |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 277.4k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 277.4k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 134.9k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 129.9k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.3k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 83k | Match namespaced bash tool name in the Vibe hook |
 | [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 77.8k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
@@ -48,13 +49,13 @@
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 68.7k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 59k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 59k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 59.2k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 59.2k | Say a long reference is too long when no speech-to-text model is installed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.5k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 52.5k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 48.5k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 47.8k | Run Leiden in a worker so its timeout can fire |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 47.8k | List clients in the detach/attach modals when they mount open |
+| [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 47.8k | Run Leiden in a worker so its timeout can fire |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.4k | Find the git sub-command after global options in read-only mode |
 | [gofiber/fiber #4728](https://github.com/gofiber/fiber/pull/4728) | 40.2k | 🐛 bug: reject static partial wildcard matches that cross a path segment boundary |
 | [soxoj/maigret #3198](https://github.com/soxoj/maigret/pull/3198) | 38.8k | Disable CGTrader behind AWS WAF challenge |
@@ -78,11 +79,12 @@
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17.1k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 17.1k | Accept github line anchors on markdown link targets |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
+| [rjsf-team/react-jsonschema-form #5443](https://github.com/rjsf-team/react-jsonschema-form/pull/5443) | 15.9k | List an extraErrors message once when it matches a validator error |
 | [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 15.8k | Skip pause dispatch for an already Paused BatchSandbox |
-| [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 13.9k | Build the PageRank adjacency once for a graph dict, not per node |
-| [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 13.9k | Sync the facade mirror on backend update_vectors |
-| [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.8k | Globe camera no longer throws when padding exceeds the viewport |
-| [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.8k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
+| [semantica-agi/semantica #1844](https://github.com/semantica-agi/semantica/pull/1844) | 14k | Build the PageRank adjacency once for a graph dict, not per node |
+| [semantica-agi/semantica #1847](https://github.com/semantica-agi/semantica/pull/1847) | 14k | Sync the facade mirror on backend update_vectors |
+| [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.9k | Globe camera no longer throws when padding exceeds the viewport |
+| [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.9k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.5k | Keep checkpoint snapshot ids unique across restarts |
 | [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 9.5k | Keep board snapshots whose anchors survive compaction |
 | [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 9.5k | Never store a raw session ID as the agent name |
@@ -96,8 +98,8 @@
 | [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 8.6k | Honor --device instead of hard-coding device_map=auto |
 | [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 8.6k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 8.6k | Honour --device in the transformers loader |
-| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.5k | Surface a fetch error in TestsReachingList |
-| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.5k | Keep a matched rg path even at the repo root |
+| [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.6k | Surface a fetch error in TestsReachingList |
+| [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.6k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 5.4k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 5.4k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.2k | Restore DataGrid scroll position across tab switches |
@@ -138,7 +140,7 @@
 | [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
 | [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 944 | Match search_jlcpcb_parts queries word by word |
-| [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 885 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
+| [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 884 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 876 | Accept the dsh provider in PricingProviderSchema |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 850 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 708 | Add h/l as panel-nav aliases to help and docs |

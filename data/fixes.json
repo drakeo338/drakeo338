@@ -97,6 +97,7 @@
   "reticlehq/reticle#1381": "Keep the lease marker across a server redirect (#1352)",
   "rjsf-team/react-jsonschema-form#5397": "Fix getDateTimeLocalValue() for epoch numbers and Date values",
   "rjsf-team/react-jsonschema-form#5443": "List an extraErrors message once when it matches a validator error",
+  "rjsf-team/react-jsonschema-form#5450": "ColSpan map fallthrough and schema-type defaults in ObjectFieldTemplate",
   "rtk-ai/rtk#4356": "Match namespaced bash tool name in the Vibe hook",
   "rust-fuzz/arbitrary#242": "Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71",
   "rust-lang/libc#5560": "Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants",

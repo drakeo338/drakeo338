@@ -91,6 +91,7 @@
   "reticlehq/reticle#1183": "Recognise a corepack-only package manager instead of refusing it",
   "reticlehq/reticle#1188": "Reject unrecognised seedStorage keys instead of stripping them",
   "reticlehq/reticle#1192": "Count a live session as connection evidence in initialize",
+  "reticlehq/reticle#1381": "Keep the lease marker across a server redirect (#1352)",
   "rjsf-team/react-jsonschema-form#5397": "Fix getDateTimeLocalValue() for epoch numbers and Date values",
   "rjsf-team/react-jsonschema-form#5443": "List an extraErrors message once when it matches a validator error",
   "rtk-ai/rtk#4356": "Match namespaced bash tool name in the Vibe hook",

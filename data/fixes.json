@@ -24,6 +24,7 @@
   "NVIDIA/SkillSpector#637": "Fingerprint every occurrence of a deduplicated finding",
   "NVIDIA/SkillSpector#774": "Honor optionalDependencies in package.json extraction",
   "QwenLM/qwen-code#13077": "Report a spawn failure of the CLI child instead of exiting silently",
+  "Soju06/codex-lb#2517": "Map codex_cli_rs user agent to codex-cli family",
   "StellarTickets/backend#322": "Normalize email to lowercase on register and login",
   "TabularisDB/tabularis#831": "Restore DataGrid scroll position across tab switches",
   "TabularisDB/tabularis#838": "Keep scroll position of grids in multi-result panel",

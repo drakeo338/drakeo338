@@ -32,8 +32,8 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 392.3k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 282.3k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 282.3k | Raise on unparseable skill-comply classifier output |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 282.5k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 282.5k | Raise on unparseable skill-comply classifier output |
 | [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 136.9k | Keep icon generator from corrupting SVGs or truncating output |
 | [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 132.4k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.5k | WebGLBackend: Fix clear() with a disabled color write mask. |
@@ -41,7 +41,7 @@
 | [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 97.9k | Use `margin-trim: block` in the `@property` fallback detection |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 85.7k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 85.7k | Count queued next-level URLs against max_pages in BFS |
-| [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 83.7k | Match namespaced bash tool name in the Vibe hook |
+| [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 83.8k | Match namespaced bash tool name in the Vibe hook |
 | [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 78.2k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
 | [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 78.2k | Studio: do not re-send the image generate POST after a dropped connection |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.9k | Keep grpc response errors out of the request stream |
@@ -50,8 +50,8 @@
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 75.6k | Keep the upstream 4xx status on send_message errors |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.2k | Stop update_me setting self-referential changed_by_fk |
 | [strapi/strapi #28017](https://github.com/strapi/strapi/pull/28017) | 73.3k | Unhandled rejection when an entry event fails to emit after commit |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 73k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 73k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 73.2k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 73.2k | Say a long reference is too long when no speech-to-text model is installed |
 | [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 72.2k | Find spec and design artifacts by output path |
 | [Fission-AI/OpenSpec #2052](https://github.com/Fission-AI/OpenSpec/pull/2052) | 72.2k | Allow symlinked openspec/changes and specs |
 | [moby/moby #53921](https://github.com/moby/moby/pull/53921) | 72.2k | Don't fail container list when size lookup fails |
@@ -103,15 +103,15 @@
 | [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 9.6k | Keep board snapshots whose anchors survive compaction |
 | [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 9.6k | Never store a raw session ID as the agent name |
 | [alvinunreal/oh-my-opencode-slim #1472](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1472) | 9.6k | Ignore a trailing busy for a finished background job |
-| [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 9.2k | Slice per-layer config lists so shrunk models save again |
-| [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 9.2k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
-| [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 9.2k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
-| [MakazhanAlpamys/Soup #1454](https://github.com/MakazhanAlpamys/Soup/pull/1454) | 9.2k | Keep the previous artifact when reward synth or adapter fuse fails |
-| [MakazhanAlpamys/Soup #1456](https://github.com/MakazhanAlpamys/Soup/pull/1456) | 9.2k | Thread --trust-remote-code to every load it was silently dropped from |
-| [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 9.2k | Honor --device instead of hard-coding device_map=auto |
-| [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 9.2k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
-| [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 9.2k | Honour --device in the transformers loader |
-| [MakazhanAlpamys/Soup #1709](https://github.com/MakazhanAlpamys/Soup/pull/1709) | 9.2k | Report a reusable layer-shard cache at its real size in the disk pre-flight |
+| [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 9.3k | Slice per-layer config lists so shrunk models save again |
+| [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 9.3k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
+| [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 9.3k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
+| [MakazhanAlpamys/Soup #1454](https://github.com/MakazhanAlpamys/Soup/pull/1454) | 9.3k | Keep the previous artifact when reward synth or adapter fuse fails |
+| [MakazhanAlpamys/Soup #1456](https://github.com/MakazhanAlpamys/Soup/pull/1456) | 9.3k | Thread --trust-remote-code to every load it was silently dropped from |
+| [MakazhanAlpamys/Soup #1460](https://github.com/MakazhanAlpamys/Soup/pull/1460) | 9.3k | Honor --device instead of hard-coding device_map=auto |
+| [MakazhanAlpamys/Soup #1473](https://github.com/MakazhanAlpamys/Soup/pull/1473) | 9.3k | Keep DoRA off on GPTQ/AWQ/AQLM/EETQ bases |
+| [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 9.3k | Honour --device in the transformers loader |
+| [MakazhanAlpamys/Soup #1709](https://github.com/MakazhanAlpamys/Soup/pull/1709) | 9.3k | Report a reusable layer-shard cache at its real size in the disk pre-flight |
 | [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 9.1k | Re-arm lazy tools from history after a plugin reload |
 | [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 7.8k | Surface a fetch error in TestsReachingList |
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 7.8k | Keep a matched rg path even at the repo root |

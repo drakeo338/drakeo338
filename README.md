@@ -31,11 +31,11 @@
 <!-- merged:start -->
 | Project | Stars | Fix |
 |---|--:|---|
-| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 392.5k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 284k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 284k | Raise on unparseable skill-comply classifier output |
+| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 392.6k | Pass the responding agent to summary model acquisition |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 284.1k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 284.1k | Raise on unparseable skill-comply classifier output |
 | [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 137.6k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 133.1k | Require --video-materials for the local video source |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 133.2k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.6k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 101.8k | Show help for install, update, uninstall and other action verbs instead of running them |
 | [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 101.8k | Skip V2 setup when the context has no checkout directory |
@@ -46,10 +46,10 @@
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 84k | Match namespaced bash tool name in the Vibe hook |
 | [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 78.3k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
 | [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 78.3k | Studio: do not re-send the image generate POST after a dropped connection |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 77.3k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 77.3k | Say a long reference is too long when no speech-to-text model is installed |
-| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 77.1k | Validate namespace on memory store and memory import |
-| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 77.1k | Use a key separator the memory validator accepts for edges |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 77.5k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 77.5k | Say a long reference is too long when no speech-to-text model is installed |
+| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 77.2k | Validate namespace on memory store and memory import |
+| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 77.2k | Use a key separator the memory validator accepts for edges |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.9k | Keep grpc response errors out of the request stream |
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 76.2k | Keep the upstream 4xx status on send_message errors |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.2k | Stop update_me setting self-referential changed_by_fk |
@@ -66,7 +66,7 @@
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.6k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 53.2k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [expo/expo #51194](https://github.com/expo/expo/pull/51194) | 52.9k | [router] Fix `getState()` returning stale state in `state` listeners |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 51.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 51.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [mudler/LocalAI #12766](https://github.com/mudler/LocalAI/pull/12766) | 49.7k | Honour the language option when loading the model |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 48.3k | List clients in the detach/attach modals when they mount open |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 48k | Run Leiden in a worker so its timeout can fire |

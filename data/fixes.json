@@ -62,6 +62,7 @@
   "esengine/DeepSeek-Reasonix#11354": "Reject npm package names that resolve as paths, tags or tarballs",
   "esengine/DeepSeek-Reasonix#11374": "Keep the config edit lock directory per user and refuse a foreign owner",
   "eugeniughelbur/obsidian-second-brain#310": "Resolve `bash` by path so WSL's launcher never runs the test suite",
+  "eugeniughelbur/obsidian-second-brain#346": "Make a fresh vault read clean in the MCP health check",
   "expo/expo#51194": "[router] Fix `getState()` returning stale state in `state` listeners",
   "floci-io/floci#5119": "Accept parameter names that start with a digit",
   "floci-io/floci#5120": "Reject an ExecuteStatement response over 1 MiB",
@@ -146,6 +147,7 @@
   "unstablebuild/rune#185": "Fix f/F/t/T and ;/, dropping visual mode",
   "vectorize-io/hindsight#4752": "Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x",
   "vercel/turborepo#14418": "Preserve symlinked AGENTS.md when updating agent guidance",
+  "vercel/turborepo#14868": "Exit quietly when `turbo ls` output is piped to a closed reader",
   "zhayujie/CowAgent#3357": "Find the git sub-command after global options in read-only mode",
   "zzet/gortex#826": "Skip comments and string literals in the VB.NET call scan",
   "zzet/gortex#842": "Install user-level hooks into ~/.claude/settings.json"

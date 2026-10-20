@@ -1,6 +1,7 @@
 {
   "ArcReel/ArcReel#2787": "\u4e3a Gemini 3.1 Flash Lite \u4e0e Qwen3.6 Plus / Flash \u58f0\u660e\u56fe\u7247\u7406\u89e3\u80fd\u529b",
   "ArcReel/ArcReel#2927": "Reject inline base64 that does not decode to PNG, JPEG or WebP",
+  "CherryHQ/cherry-studio#21979": "Apply backpressure instead of aborting at the queued-bytes cap",
   "Cotal-AI/Cotal#2252": "Forward observe through the worker bridge",
   "Cotal-AI/Cotal#2657": "Wait briefly for a held extension lock before refusing a load",
   "Cotal-AI/Cotal#2668": "Report the last probe outcome when detached readiness times out",

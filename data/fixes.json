@@ -128,6 +128,7 @@
   "snapotter-hq/SnapOtter#1663": "Stop the split tile busy timer outliving its download",
   "snapotter-hq/SnapOtter#1667": "Let 5xx errors through the tool routes' 422 catch-all",
   "snapotter-hq/SnapOtter#2014": "Create a group and its members in one transaction",
+  "snapotter-hq/SnapOtter#2890": "Show unsupported-file toast and filter non-images in the collage tool",
   "solidjs/solid#3716": "A run that committed undefined is not WASTED_RECOMPUTE",
   "solidjs/solid#3730": "Exit raw text mode after a self-closing raw text element",
   "soxoj/maigret#3198": "Disable CGTrader behind AWS WAF challenge",

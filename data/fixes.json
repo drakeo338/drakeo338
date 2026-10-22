@@ -6,6 +6,7 @@
   "Cotal-AI/Cotal#2657": "Wait briefly for a held extension lock before refusing a load",
   "Cotal-AI/Cotal#2668": "Report the last probe outcome when detached readiness times out",
   "Cotal-AI/Cotal#2694": "Read the deregister issuance gate through core's reader",
+  "Egonex-AI/Understand-Anything#728": "Resolve `from . import NAME` to the package __init__.py",
   "Fission-AI/OpenSpec#2028": "Find spec and design artifacts by output path",
   "Fission-AI/OpenSpec#2052": "Allow symlinked openspec/changes and specs",
   "Harry-kp/vortix#361": "Add h/l as panel-nav aliases to help and docs",

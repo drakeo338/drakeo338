@@ -32,10 +32,10 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 392.8k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 286.7k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 286.7k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 139.1k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 134.3k | Require --video-materials for the local video source |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 286.9k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 286.9k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 139.2k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 134.4k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.8k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 102.4k | Show help for install, update, uninstall and other action verbs instead of running them |
 | [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 102.4k | Skip V2 setup when the context has no checkout directory |
@@ -46,12 +46,12 @@
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 86.1k | Count queued next-level URLs against max_pages in BFS |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 84.3k | Match namespaced bash tool name in the Vibe hook |
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 84.3k | Screen web_search result URLs in every provider |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 82k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 82k | Say a long reference is too long when no speech-to-text model is installed |
-| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 78.5k | Validate namespace on memory store and memory import |
-| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 78.5k | Use a key separator the memory validator accepts for edges |
-| [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 78.4k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
-| [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 78.4k | Studio: do not re-send the image generate POST after a dropped connection |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 82.3k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 82.3k | Say a long reference is too long when no speech-to-text model is installed |
+| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 78.6k | Validate namespace on memory store and memory import |
+| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 78.6k | Use a key separator the memory validator accepts for edges |
+| [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 78.5k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
+| [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 78.5k | Studio: do not re-send the image generate POST after a dropped connection |
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 77.6k | Keep the upstream 4xx status on send_message errors |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 76.9k | Keep grpc response errors out of the request stream |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.3k | Stop update_me setting self-referential changed_by_fk |
@@ -59,7 +59,7 @@
 | [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 72.8k | Find spec and design artifacts by output path |
 | [Fission-AI/OpenSpec #2052](https://github.com/Fission-AI/OpenSpec/pull/2052) | 72.8k | Allow symlinked openspec/changes and specs |
 | [moby/moby #53921](https://github.com/moby/moby/pull/53921) | 72.2k | Don't fail container list when size lookup fails |
-| [cline/cline #14520](https://github.com/cline/cline/pull/14520) | 70.7k | Stop billing image base64 payloads at CHARS_PER_TOKEN |
+| [cline/cline #14520](https://github.com/cline/cline/pull/14520) | 70.8k | Stop billing image base64 payloads at CHARS_PER_TOKEN |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 70.3k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70.3k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 69.4k | Let the extension pick between OLE2 legacy Office formats |
@@ -69,8 +69,8 @@
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 53.6k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 53.6k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |
 | [expo/expo #51194](https://github.com/expo/expo/pull/51194) | 53k | [router] Fix `getState()` returning stale state in `state` listeners |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 53k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [CherryHQ/cherry-studio #21979](https://github.com/CherryHQ/cherry-studio/pull/21979) | 52.9k | Apply backpressure instead of aborting at the queued-bytes cap |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 52.8k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [mudler/LocalAI #12766](https://github.com/mudler/LocalAI/pull/12766) | 49.9k | Honour the language option when loading the model |
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 48.4k | List clients in the detach/attach modals when they mount open |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 48k | Run Leiden in a worker so its timeout can fire |
@@ -97,9 +97,9 @@
 | [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 21k | Fingerprint every occurrence of a deduplicated finding |
 | [NVIDIA/SkillSpector #774](https://github.com/NVIDIA/SkillSpector/pull/774) | 21k | Honor optionalDependencies in package.json extraction |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.2k | Connector confirm endpoints now require the API key |
-| [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.3k | [naga wgsl-in] Reject loads of types that contain atomics |
-| [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17.3k | Replace a legacy OpenWiki section instead of appending a duplicate |
-| [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 17.3k | Accept github line anchors on markdown link targets |
+| [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.4k | [naga wgsl-in] Reject loads of types that contain atomics |
+| [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17.4k | Replace a legacy OpenWiki section instead of appending a duplicate |
+| [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 17.4k | Accept github line anchors on markdown link targets |
 | [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 16.1k | Skip pause dispatch for an already Paused BatchSandbox |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
 | [rjsf-team/react-jsonschema-form #5443](https://github.com/rjsf-team/react-jsonschema-form/pull/5443) | 15.9k | List an extraErrors message once when it matches a validator error |
@@ -109,10 +109,10 @@
 | [maplibre/maplibre-gl-js #8553](https://github.com/maplibre/maplibre-gl-js/pull/8553) | 11.9k | Globe camera no longer throws when padding exceeds the viewport |
 | [maplibre/maplibre-gl-js #8554](https://github.com/maplibre/maplibre-gl-js/pull/8554) | 11.9k | Color relief no longer packs to NaN when a DEM channel factor is 0 |
 | [open-gsd/gsd-core #5030](https://github.com/open-gsd/gsd-core/pull/5030) | 10.8k | Answer a caller error for a missing phase dir |
-| [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.7k | Keep checkpoint snapshot ids unique across restarts |
-| [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 9.7k | Keep board snapshots whose anchors survive compaction |
-| [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 9.7k | Never store a raw session ID as the agent name |
-| [alvinunreal/oh-my-opencode-slim #1472](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1472) | 9.7k | Ignore a trailing busy for a finished background job |
+| [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 9.8k | Keep checkpoint snapshot ids unique across restarts |
+| [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 9.8k | Keep board snapshots whose anchors survive compaction |
+| [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 9.8k | Never store a raw session ID as the agent name |
+| [alvinunreal/oh-my-opencode-slim #1472](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1472) | 9.8k | Ignore a trailing busy for a finished background job |
 | [MakazhanAlpamys/Soup #1256](https://github.com/MakazhanAlpamys/Soup/pull/1256) | 9.6k | Slice per-layer config lists so shrunk models save again |
 | [MakazhanAlpamys/Soup #1377](https://github.com/MakazhanAlpamys/Soup/pull/1377) | 9.6k | Strip ANSI/wrap before asserting the #808 guard stayed silent |
 | [MakazhanAlpamys/Soup #1382](https://github.com/MakazhanAlpamys/Soup/pull/1382) | 9.6k | Resolve the #361 harness's source SHA from soup_cli's tree, not the checkout's HEAD |
@@ -178,9 +178,9 @@
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 722 | Add h/l as panel-nav aliases to help and docs |
 | [YoanWai/agent-manager #643](https://github.com/YoanWai/agent-manager/pull/643) | 615 | Keep queued message out of the reply line and quote the approval question |
 | [YoanWai/agent-manager #644](https://github.com/YoanWai/agent-manager/pull/644) | 615 | Keep pending messages out of the reply line |
-| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 484 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
-| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 484 | Match latency report by path, not length delta (closes #3642) |
-| [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 484 | Resolve path arguments through one resolver (closes #3988) |
+| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 488 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
+| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 488 | Match latency report by path, not length delta (closes #3642) |
+| [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 488 | Resolve path arguments through one resolver (closes #3988) |
 | [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 338 | Forward observe through the worker bridge |
 | [Cotal-AI/Cotal #2657](https://github.com/Cotal-AI/Cotal/pull/2657) | 338 | Wait briefly for a held extension lock before refusing a load |
 | [Cotal-AI/Cotal #2668](https://github.com/Cotal-AI/Cotal/pull/2668) | 338 | Report the last probe outcome when detached readiness times out |

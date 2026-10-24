@@ -32,10 +32,10 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 393k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 288k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 288k | Raise on unparseable skill-comply classifier output |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 288.1k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 288.1k | Raise on unparseable skill-comply classifier output |
 | [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 139.9k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 134.8k | Require --video-materials for the local video source |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 134.9k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.9k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 102.8k | Show help for install, update, uninstall and other action verbs instead of running them |
 | [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 102.8k | Skip V2 setup when the context has no checkout directory |
@@ -44,8 +44,8 @@
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 88.1k | Resolve `from . import NAME` to the package __init__.py |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 86.2k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 86.2k | Count queued next-level URLs against max_pages in BFS |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 84.8k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 84.8k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 84.9k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 84.9k | Say a long reference is too long when no speech-to-text model is installed |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 84.5k | Match namespaced bash tool name in the Vibe hook |
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 84.4k | Screen web_search result URLs in every provider |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 79k | Validate namespace on memory store and memory import |
@@ -178,7 +178,7 @@
 | [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.3k | Count a live session as connection evidence in initialize |
 | [reticlehq/reticle #1381](https://github.com/reticlehq/reticle/pull/1381) | 1.3k | Keep the lease marker across a server redirect (#1352) |
 | [reticlehq/reticle #1382](https://github.com/reticlehq/reticle/pull/1382) | 1.3k | Read gate and watch coverage per flow, not from the newest run |
-| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 938 | Accept the dsh provider in PricingProviderSchema |
+| [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 940 | Accept the dsh provider in PricingProviderSchema |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 888 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 850 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 724 | Add h/l as panel-nav aliases to help and docs |

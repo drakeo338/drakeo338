@@ -69,6 +69,8 @@
   "expo/expo#51194": "[router] Fix `getState()` returning stale state in `state` listeners",
   "floci-io/floci#5119": "Accept parameter names that start with a digit",
   "floci-io/floci#5120": "Reject an ExecuteStatement response over 1 MiB",
+  "floci-io/floci#5981": "Run MySQL and MariaDB with their parameter group values",
+  "floci-io/floci#6056": "Hold an ACM certificate in use while a listener serves it",
   "gfx-rs/wgpu#10458": "[naga wgsl-in] Reject loads of types that contain atomics",
   "gofiber/fiber#4728": "\ud83d\udc1b bug: reject static partial wildcard matches that cross a path segment boundary",
   "harry0703/MoneyPrinterTurbo#1585": "Require --video-materials for the local video source",

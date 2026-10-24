@@ -97,6 +97,7 @@
   "nestjs/nest#17972": "Keep grpc response errors out of the request stream",
   "nextlevelbuilder/ui-ux-pro-max-skill#526": "Keep icon generator from corrupting SVGs or truncating output",
   "open-gsd/gsd-core#5030": "Answer a caller error for a missing phase dir",
+  "openbq-org/OpenBB#7800": "[BugFix] `openbb-cli`: Make Codegen Names That Start With a Digit or Are Keywords Valid",
   "openclaw/openclaw#161454": "Pass the responding agent to summary model acquisition",
   "opensandbox-group/OpenSandbox#2082": "Skip pause dispatch for an already Paused BatchSandbox",
   "qdrant/qdrant#10870": "Fix merge and search with an empty multivector placeholder",

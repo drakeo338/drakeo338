@@ -31,10 +31,10 @@
 <!-- merged:start -->
 | Project | Stars | Fix |
 |---|--:|---|
-| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 393k | Pass the responding agent to summary model acquisition |
+| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 393.1k | Pass the responding agent to summary model acquisition |
 | [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 288.8k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
 | [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 288.8k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 140.3k | Keep icon generator from corrupting SVGs or truncating output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 140.4k | Keep icon generator from corrupting SVGs or truncating output |
 | [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 135.1k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 116.9k | WebGLBackend: Fix clear() with a disabled color write mask. |
 | [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 103.1k | Show help for install, update, uninstall and other action verbs instead of running them |
@@ -42,8 +42,8 @@
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.3k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
 | [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.1k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 88.2k | Resolve `from . import NAME` to the package __init__.py |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 86.5k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 86.5k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 86.7k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 86.7k | Say a long reference is too long when no speech-to-text model is installed |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 86.3k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 86.3k | Count queued next-level URLs against max_pages in BFS |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 84.5k | Match namespaced bash tool name in the Vibe hook |

@@ -118,6 +118,7 @@
   "reticlehq/reticle#1192": "Count a live session as connection evidence in initialize",
   "reticlehq/reticle#1381": "Keep the lease marker across a server redirect (#1352)",
   "reticlehq/reticle#1382": "Read gate and watch coverage per flow, not from the newest run",
+  "reticlehq/reticle#1605": "Gate names flows without sources instead of claiming nothing drove the file",
   "rjsf-team/react-jsonschema-form#5397": "Fix getDateTimeLocalValue() for epoch numbers and Date values",
   "rjsf-team/react-jsonschema-form#5443": "List an extraErrors message once when it matches a validator error",
   "rjsf-team/react-jsonschema-form#5450": "ColSpan map fallthrough and schema-type defaults in ObjectFieldTemplate",

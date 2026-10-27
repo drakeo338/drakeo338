@@ -1,6 +1,7 @@
 {
   "ArcReel/ArcReel#2787": "\u4e3a Gemini 3.1 Flash Lite \u4e0e Qwen3.6 Plus / Flash \u58f0\u660e\u56fe\u7247\u7406\u89e3\u80fd\u529b",
   "ArcReel/ArcReel#2927": "Reject inline base64 that does not decode to PNG, JPEG or WebP",
+  "Automattic/harper#4450": "Don't insert a space between \u00a5 and the amount",
   "CherryHQ/cherry-studio#21979": "Apply backpressure instead of aborting at the queued-bytes cap",
   "Cotal-AI/Cotal#2252": "Forward observe through the worker bridge",
   "Cotal-AI/Cotal#2657": "Wait briefly for a held extension lock before refusing a load",
@@ -10,6 +11,8 @@
   "Egonex-AI/Understand-Anything#728": "Resolve `from . import NAME` to the package __init__.py",
   "Fission-AI/OpenSpec#2028": "Find spec and design artifacts by output path",
   "Fission-AI/OpenSpec#2052": "Allow symlinked openspec/changes and specs",
+  "HKUDS/DeepTutor#1992": "Scope Codex prompt cache key to the conversation and send session-id",
+  "HKUDS/DeepTutor#2000": "Show the picked option's text next to its letter in the grade seed",
   "Harry-kp/vortix#361": "Add h/l as panel-nav aliases to help and docs",
   "LargeModGames/spotatui#648": "Show the rebound key in on-screen hints, not the default",
   "LargeModGames/spotatui#744": "Add the scroll offset when a click selects a settings row",

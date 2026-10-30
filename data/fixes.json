@@ -155,6 +155,7 @@
   "thedotmack/claude-mem#4879": "Skip V2 setup when the context has no checkout directory",
   "tw93/Pake#1393": "Set `StartupWMClass` so Linux docks match the window to its launcher",
   "ueberdosis/tiptap#8414": "Escape a literal exclamation mark before a link",
+  "umami-software/umami#4648": "Fix heatmap snapshot height being set by a single tall outlier click",
   "unclecode/crawl4ai#2329": "Keep a space where a whitespace-only element is removed",
   "unclecode/crawl4ai#2339": "Count queued next-level URLs against max_pages in BFS",
   "unslothai/unsloth#12733": "Studio: leave a bracketed IPv6 host unchanged in dial_host",

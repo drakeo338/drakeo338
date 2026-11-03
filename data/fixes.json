@@ -166,6 +166,8 @@
   "vectorize-io/hindsight#4752": "Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x",
   "vercel/turborepo#14418": "Preserve symlinked AGENTS.md when updating agent guidance",
   "vercel/turborepo#14868": "Exit quietly when `turbo ls` output is piped to a closed reader",
+  "wainmann/agent-manager#643": "Keep queued message out of the reply line and quote the approval question",
+  "wainmann/agent-manager#644": "Keep pending messages out of the reply line",
   "zhayujie/CowAgent#3357": "Find the git sub-command after global options in read-only mode",
   "zzet/gortex#826": "Skip comments and string literals in the VB.NET call scan",
   "zzet/gortex#842": "Install user-level hooks into ~/.claude/settings.json"

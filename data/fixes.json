@@ -83,6 +83,8 @@
   "google/langextract#577": "Stop dict_to_annotated_document from mutating its input",
   "harry0703/MoneyPrinterTurbo#1585": "Require --video-materials for the local video source",
   "headroomlabs-ai/headroom#3944": "Keep the upstream 4xx status on send_message errors",
+  "headroomlabs-ai/headroom#4308": "Route /v1/models to the x-headroom-base-url upstream",
+  "headroomlabs-ai/headroom#4445": "Pass RUNTIME_HOME=/root for root bake targets",
   "jsverse/transloco#1026": "Honor the sort option for `.pot` output",
   "kirodotdev/KiroCrew#15120": "Keep the answer visible when a recycle notice trails it",
   "kirodotdev/KiroCrew#15127": "Keep deleted semantic facts deleted on automated writes",

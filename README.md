@@ -32,31 +32,31 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.1k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 298.8k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 298.8k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.3k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.4k | Require --video-materials for the local video source |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 299k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 299k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.5k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.6k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 117.8k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.2k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.2k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 103.3k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 103.3k | Say a long reference is too long when no speech-to-text model is installed |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.3k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.3k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 103.6k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 103.6k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.3k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
-| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.2k | Use `margin-trim: block` in the `@property` fallback detection |
+| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.3k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 91.2k | Resolve `from . import NAME` to the package __init__.py |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 87k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 87k | Count queued next-level URLs against max_pages in BFS |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 85.8k | Match namespaced bash tool name in the Vibe hook |
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.1k | Screen web_search result URLs in every provider |
-| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 81.1k | Validate namespace on memory store and memory import |
-| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 81.1k | Use a key separator the memory validator accepts for edges |
-| [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 79.1k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
-| [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 79.1k | Studio: do not re-send the image generate POST after a dropped connection |
-| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 79k | Keep the upstream 4xx status on send_message errors |
-| [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 79k | Route /v1/models to the x-headroom-base-url upstream |
-| [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 79k | Pass RUNTIME_HOME=/root for root bake targets |
+| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 81.2k | Validate namespace on memory store and memory import |
+| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 81.2k | Use a key separator the memory validator accepts for edges |
+| [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 79.2k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
+| [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 79.2k | Studio: do not re-send the image generate POST after a dropped connection |
+| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 79.1k | Keep the upstream 4xx status on send_message errors |
+| [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 79.1k | Route /v1/models to the x-headroom-base-url upstream |
+| [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 79.1k | Pass RUNTIME_HOME=/root for root bake targets |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 77k | Keep grpc response errors out of the request stream |
-| [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.4k | Stop update_me setting self-referential changed_by_fk |
+| [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.5k | Stop update_me setting self-referential changed_by_fk |
 | [openbq-org/OpenBB #7800](https://github.com/openbq-org/OpenBB/pull/7800) | 75.2k | [BugFix] `openbb-cli`: Make Codegen Names That Start With a Digit or Are Keywords Valid |
 | [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 74.2k | Find spec and design artifacts by output path |
 | [Fission-AI/OpenSpec #2052](https://github.com/Fission-AI/OpenSpec/pull/2052) | 74.2k | Allow symlinked openspec/changes and specs |
@@ -65,12 +65,12 @@
 | [cline/cline #14520](https://github.com/cline/cline/pull/14520) | 71.4k | Stop billing image base64 payloads at CHARS_PER_TOKEN |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 70.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70.8k | Ignore shards created before the test process started |
-| [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 70.2k | Let the extension pick between OLE2 legacy Office formats |
+| [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 70.3k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 60.8k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 59.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 56.2k | Scope Codex prompt cache key to the conversation and send session-id |
-| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 56.2k | Show the picked option's text next to its letter in the grade seed |
+| [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 60.9k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 59.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 56.3k | Scope Codex prompt cache key to the conversation and send session-id |
+| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 56.3k | Show the picked option's text next to its letter in the grade seed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.7k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 55.2k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 55.2k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |
@@ -96,17 +96,17 @@
 | [qdrant/qdrant #10948](https://github.com/qdrant/qdrant/pull/10948) | 35.5k | [AI] fix: Reject renaming an alias to an existing collection name |
 | [vercel/turborepo #14418](https://github.com/vercel/turborepo/pull/14418) | 31.3k | Preserve symlinked AGENTS.md when updating agent guidance |
 | [vercel/turborepo #14868](https://github.com/vercel/turborepo/pull/14868) | 31.3k | Exit quietly when `turbo ls` output is piped to a closed reader |
-| [floci-io/floci #5119](https://github.com/floci-io/floci/pull/5119) | 30.9k | Accept parameter names that start with a digit |
-| [floci-io/floci #5120](https://github.com/floci-io/floci/pull/5120) | 30.9k | Reject an ExecuteStatement response over 1 MiB |
-| [floci-io/floci #5981](https://github.com/floci-io/floci/pull/5981) | 30.9k | Run MySQL and MariaDB with their parameter group values |
-| [floci-io/floci #6056](https://github.com/floci-io/floci/pull/6056) | 30.9k | Hold an ACM certificate in use while a listener serves it |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 29.4k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [floci-io/floci #5119](https://github.com/floci-io/floci/pull/5119) | 31k | Accept parameter names that start with a digit |
+| [floci-io/floci #5120](https://github.com/floci-io/floci/pull/5120) | 31k | Reject an ExecuteStatement response over 1 MiB |
+| [floci-io/floci #5981](https://github.com/floci-io/floci/pull/5981) | 31k | Run MySQL and MariaDB with their parameter group values |
+| [floci-io/floci #6056](https://github.com/floci-io/floci/pull/6056) | 31k | Hold an ACM certificate in use while a listener serves it |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 29.5k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [QwenLM/qwen-code #13077](https://github.com/QwenLM/qwen-code/pull/13077) | 29.1k | Report a spawn failure of the CLI child instead of exiting silently |
 | [fyne-io/fyne #6574](https://github.com/fyne-io/fyne/pull/6574) | 28.8k | Fix external tree binding ignoring changes to ids on Reload |
 | [mihomo-party-org/clash-party #2248](https://github.com/mihomo-party-org/clash-party/pull/2248) | 27.2k | Retry admin privilege check on timeout instead of caching false |
 | [angular/angular-cli #34400](https://github.com/angular/angular-cli/pull/34400) | 27k | Add integrity metadata for all initial chunks beyond the module preload limit |
-| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 24.7k | Fingerprint every occurrence of a deduplicated finding |
-| [NVIDIA/SkillSpector #774](https://github.com/NVIDIA/SkillSpector/pull/774) | 24.7k | Honor optionalDependencies in package.json extraction |
+| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 24.8k | Fingerprint every occurrence of a deduplicated finding |
+| [NVIDIA/SkillSpector #774](https://github.com/NVIDIA/SkillSpector/pull/774) | 24.8k | Honor optionalDependencies in package.json extraction |
 | [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 22.9k | Reposition help card as formula text grows |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.3k | Connector confirm endpoints now require the API key |
 | [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.5k | [naga wgsl-in] Reject loads of types that contain atomics |
@@ -132,15 +132,15 @@
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 10.3k | Honour --device in the transformers loader |
 | [MakazhanAlpamys/Soup #1709](https://github.com/MakazhanAlpamys/Soup/pull/1709) | 10.3k | Report a reusable layer-shard cache at its real size in the disk pre-flight |
 | [MakazhanAlpamys/Soup #2063](https://github.com/MakazhanAlpamys/Soup/pull/2063) | 10.3k | Read bfloat16 adapters in adapters check and adapters diff (#2058) |
-| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 10.1k | Re-arm lazy tools from history after a plugin reload |
+| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 10.2k | Re-arm lazy tools from history after a plugin reload |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 10.1k | Keep checkpoint snapshot ids unique across restarts |
 | [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 10.1k | Keep board snapshots whose anchors survive compaction |
 | [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 10.1k | Never store a raw session ID as the agent name |
 | [alvinunreal/oh-my-opencode-slim #1472](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1472) | 10.1k | Ignore a trailing busy for a finished background job |
 | [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 8.1k | Surface a fetch error in TestsReachingList |
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 8.1k | Keep a matched rg path even at the repo root |
-| [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 6.2k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
-| [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 6.2k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
+| [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 6.3k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
+| [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 6.3k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
 | [apache/maka #5455](https://github.com/apache/maka/pull/5455) | 5.9k | Guard the packaged dependency closure with a reviewed ledger |
 | [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 5.5k | Require a vague close for false-concession |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.4k | Restore DataGrid scroll position across tab switches |
@@ -192,8 +192,8 @@
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 888 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 854 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 752 | Add h/l as panel-nav aliases to help and docs |
-| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 640 | Keep queued message out of the reply line and quote the approval question |
-| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 640 | Keep pending messages out of the reply line |
+| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 644 | Keep queued message out of the reply line and quote the approval question |
+| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 644 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 517 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 517 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 517 | Resolve path arguments through one resolver (closes #3988) |
@@ -202,7 +202,7 @@
 | [Cotal-AI/Cotal #2668](https://github.com/Cotal-AI/Cotal/pull/2668) | 383 | Report the last probe outcome when detached readiness times out |
 | [Cotal-AI/Cotal #2694](https://github.com/Cotal-AI/Cotal/pull/2694) | 383 | Read the deregister issuance gate through core's reader |
 | [Cotal-AI/Cotal #4080](https://github.com/Cotal-AI/Cotal/pull/4080) | 383 | Ignore a model check that settles after teardown |
-| [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 317 | Accept plain lists in PYODScoreEnsembler.transform_partial |
+| [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 318 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->
 

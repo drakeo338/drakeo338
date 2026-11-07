@@ -32,18 +32,18 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.1k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 298.6k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 298.6k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.2k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.3k | Require --video-materials for the local video source |
-| [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 117.7k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 102.9k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 102.9k | Say a long reference is too long when no speech-to-text model is installed |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 298.8k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 298.8k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.3k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.4k | Require --video-materials for the local video source |
+| [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 117.8k | WebGLBackend: Fix clear() with a disabled color write mask. |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.2k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.2k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 103.3k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 103.3k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.3k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
 | [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.2k | Use `margin-trim: block` in the `@property` fallback detection |
-| [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 91.1k | Resolve `from . import NAME` to the package __init__.py |
+| [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 91.2k | Resolve `from . import NAME` to the package __init__.py |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 87k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 87k | Count queued next-level URLs against max_pages in BFS |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 85.8k | Match namespaced bash tool name in the Vibe hook |
@@ -63,21 +63,21 @@
 | [strapi/strapi #28017](https://github.com/strapi/strapi/pull/28017) | 73.4k | Unhandled rejection when an entry event fails to emit after commit |
 | [moby/moby #53921](https://github.com/moby/moby/pull/53921) | 72.4k | Don't fail container list when size lookup fails |
 | [cline/cline #14520](https://github.com/cline/cline/pull/14520) | 71.4k | Stop billing image base64 payloads at CHARS_PER_TOKEN |
-| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 70.7k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
-| [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70.7k | Ignore shards created before the test process started |
+| [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 70.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
+| [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70.8k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 70.2k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 60.8k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 59.4k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 55.9k | Scope Codex prompt cache key to the conversation and send session-id |
-| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 55.9k | Show the picked option's text next to its letter in the grade seed |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 59.6k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 56.2k | Scope Codex prompt cache key to the conversation and send session-id |
+| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 56.2k | Show the picked option's text next to its letter in the grade seed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.7k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 55.2k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 55.2k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |
 | [expo/expo #51194](https://github.com/expo/expo/pull/51194) | 53.4k | [router] Fix `getState()` returning stale state in `state` listeners |
 | [CherryHQ/cherry-studio #21979](https://github.com/CherryHQ/cherry-studio/pull/21979) | 53.3k | Apply backpressure instead of aborting at the queued-bytes cap |
 | [mudler/LocalAI #12766](https://github.com/mudler/LocalAI/pull/12766) | 50.2k | Honour the language option when loading the model |
-| [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 49.4k | List clients in the detach/attach modals when they mount open |
+| [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 49.5k | List clients in the detach/attach modals when they mount open |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 48.3k | Run Leiden in a worker so its timeout can fire |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 47.8k | Find the git sub-command after global options in read-only mode |
 | [gofiber/fiber #4728](https://github.com/gofiber/fiber/pull/4728) | 40.3k | 🐛 bug: reject static partial wildcard matches that cross a path segment boundary |
@@ -103,7 +103,7 @@
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 29.4k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [QwenLM/qwen-code #13077](https://github.com/QwenLM/qwen-code/pull/13077) | 29.1k | Report a spawn failure of the CLI child instead of exiting silently |
 | [fyne-io/fyne #6574](https://github.com/fyne-io/fyne/pull/6574) | 28.8k | Fix external tree binding ignoring changes to ids on Reload |
-| [mihomo-party-org/clash-party #2248](https://github.com/mihomo-party-org/clash-party/pull/2248) | 27.1k | Retry admin privilege check on timeout instead of caching false |
+| [mihomo-party-org/clash-party #2248](https://github.com/mihomo-party-org/clash-party/pull/2248) | 27.2k | Retry admin privilege check on timeout instead of caching false |
 | [angular/angular-cli #34400](https://github.com/angular/angular-cli/pull/34400) | 27k | Add integrity metadata for all initial chunks beyond the module preload limit |
 | [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 24.7k | Fingerprint every occurrence of a deduplicated finding |
 | [NVIDIA/SkillSpector #774](https://github.com/NVIDIA/SkillSpector/pull/774) | 24.7k | Honor optionalDependencies in package.json extraction |
@@ -132,11 +132,11 @@
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 10.3k | Honour --device in the transformers loader |
 | [MakazhanAlpamys/Soup #1709](https://github.com/MakazhanAlpamys/Soup/pull/1709) | 10.3k | Report a reusable layer-shard cache at its real size in the disk pre-flight |
 | [MakazhanAlpamys/Soup #2063](https://github.com/MakazhanAlpamys/Soup/pull/2063) | 10.3k | Read bfloat16 adapters in adapters check and adapters diff (#2058) |
+| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 10.1k | Re-arm lazy tools from history after a plugin reload |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 10.1k | Keep checkpoint snapshot ids unique across restarts |
 | [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 10.1k | Keep board snapshots whose anchors survive compaction |
 | [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 10.1k | Never store a raw session ID as the agent name |
 | [alvinunreal/oh-my-opencode-slim #1472](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1472) | 10.1k | Ignore a trailing busy for a finished background job |
-| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 10.1k | Re-arm lazy tools from history after a plugin reload |
 | [repowise-dev/repowise #2632](https://github.com/repowise-dev/repowise/pull/2632) | 8.1k | Surface a fetch error in TestsReachingList |
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 8.1k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 6.2k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
@@ -158,16 +158,16 @@
 | [Soju06/codex-lb #2517](https://github.com/Soju06/codex-lb/pull/2517) | 3.4k | Map codex_cli_rs user agent to codex-cli family |
 | [neomjs/neo #19154](https://github.com/neomjs/neo/pull/19154) | 3.3k | `isA()` walks past `component.Base` to any ancestor |
 | [remult/remult #1047](https://github.com/remult/remult/pull/1047) | 3.2k | Update() with undefined/null id fails with not-found error |
-| [snapotter-hq/SnapOtter #1229](https://github.com/snapotter-hq/SnapOtter/pull/1229) | 2.9k | Auto-orient no longer re-compresses photos at default quality |
-| [snapotter-hq/SnapOtter #1230](https://github.com/snapotter-hq/SnapOtter/pull/1230) | 2.9k | Reject non-finite zoom so a zero-distance pinch can't store NaN |
-| [snapotter-hq/SnapOtter #1231](https://github.com/snapotter-hq/SnapOtter/pull/1231) | 2.9k | Log a failed deep-enhance pass instead of swallowing it |
-| [snapotter-hq/SnapOtter #1247](https://github.com/snapotter-hq/SnapOtter/pull/1247) | 2.9k | Importer catches dropped rows on a pre-populated `--force` target |
-| [snapotter-hq/SnapOtter #1638](https://github.com/snapotter-hq/SnapOtter/pull/1638) | 2.9k | Accept a missing memory.max at the cgroup v2 root |
-| [snapotter-hq/SnapOtter #1650](https://github.com/snapotter-hq/SnapOtter/pull/1650) | 2.9k | Keep DATA_DIR and LOG_DIR inside each fork's own directory |
-| [snapotter-hq/SnapOtter #1663](https://github.com/snapotter-hq/SnapOtter/pull/1663) | 2.9k | Stop the split tile busy timer outliving its download |
-| [snapotter-hq/SnapOtter #1667](https://github.com/snapotter-hq/SnapOtter/pull/1667) | 2.9k | Let 5xx errors through the tool routes' 422 catch-all |
-| [snapotter-hq/SnapOtter #2014](https://github.com/snapotter-hq/SnapOtter/pull/2014) | 2.9k | Create a group and its members in one transaction |
-| [snapotter-hq/SnapOtter #2890](https://github.com/snapotter-hq/SnapOtter/pull/2890) | 2.9k | Show unsupported-file toast and filter non-images in the collage tool |
+| [snapotter-hq/SnapOtter #1229](https://github.com/snapotter-hq/SnapOtter/pull/1229) | 3k | Auto-orient no longer re-compresses photos at default quality |
+| [snapotter-hq/SnapOtter #1230](https://github.com/snapotter-hq/SnapOtter/pull/1230) | 3k | Reject non-finite zoom so a zero-distance pinch can't store NaN |
+| [snapotter-hq/SnapOtter #1231](https://github.com/snapotter-hq/SnapOtter/pull/1231) | 3k | Log a failed deep-enhance pass instead of swallowing it |
+| [snapotter-hq/SnapOtter #1247](https://github.com/snapotter-hq/SnapOtter/pull/1247) | 3k | Importer catches dropped rows on a pre-populated `--force` target |
+| [snapotter-hq/SnapOtter #1638](https://github.com/snapotter-hq/SnapOtter/pull/1638) | 3k | Accept a missing memory.max at the cgroup v2 root |
+| [snapotter-hq/SnapOtter #1650](https://github.com/snapotter-hq/SnapOtter/pull/1650) | 3k | Keep DATA_DIR and LOG_DIR inside each fork's own directory |
+| [snapotter-hq/SnapOtter #1663](https://github.com/snapotter-hq/SnapOtter/pull/1663) | 3k | Stop the split tile busy timer outliving its download |
+| [snapotter-hq/SnapOtter #1667](https://github.com/snapotter-hq/SnapOtter/pull/1667) | 3k | Let 5xx errors through the tool routes' 422 catch-all |
+| [snapotter-hq/SnapOtter #2014](https://github.com/snapotter-hq/SnapOtter/pull/2014) | 3k | Create a group and its members in one transaction |
+| [snapotter-hq/SnapOtter #2890](https://github.com/snapotter-hq/SnapOtter/pull/2890) | 3k | Show unsupported-file toast and filter non-images in the collage tool |
 | [rust-lang/libc #5560](https://github.com/rust-lang/libc/pull/5560) | 2.6k | Freebsd: Add `AT_RENAME_*` and `RENAME_*` constants |
 | [jsverse/transloco #1026](https://github.com/jsverse/transloco/pull/1026) | 2.3k | Honor the sort option for `.pot` output |
 | [zzet/gortex #826](https://github.com/zzet/gortex/pull/826) | 2k | Skip comments and string literals in the VB.NET call scan |
@@ -191,9 +191,9 @@
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 1k | Accept the dsh provider in PricingProviderSchema |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 888 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 854 | Set the Apple deployment target for rustc from the linker args |
-| [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 749 | Add h/l as panel-nav aliases to help and docs |
-| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 639 | Keep queued message out of the reply line and quote the approval question |
-| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 639 | Keep pending messages out of the reply line |
+| [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 752 | Add h/l as panel-nav aliases to help and docs |
+| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 640 | Keep queued message out of the reply line and quote the approval question |
+| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 640 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 517 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 517 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 517 | Resolve path arguments through one resolver (closes #3988) |

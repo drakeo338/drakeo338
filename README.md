@@ -32,20 +32,20 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.1k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 299k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 299k | Raise on unparseable skill-comply classifier output |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 299.1k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 299.1k | Raise on unparseable skill-comply classifier output |
 | [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.5k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.6k | Require --video-materials for the local video source |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.7k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 117.8k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.3k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.3k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 103.6k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 103.6k | Say a long reference is too long when no speech-to-text model is installed |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.4k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.4k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 103.8k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 103.8k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.3k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
-| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.3k | Use `margin-trim: block` in the `@property` fallback detection |
+| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.4k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 91.2k | Resolve `from . import NAME` to the package __init__.py |
-| [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 87k | Keep a space where a whitespace-only element is removed |
-| [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 87k | Count queued next-level URLs against max_pages in BFS |
+| [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 87.1k | Keep a space where a whitespace-only element is removed |
+| [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 87.1k | Count queued next-level URLs against max_pages in BFS |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 85.8k | Match namespaced bash tool name in the Vibe hook |
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.1k | Screen web_search result URLs in every provider |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 81.2k | Validate namespace on memory store and memory import |
@@ -56,7 +56,7 @@
 | [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 79.1k | Route /v1/models to the x-headroom-base-url upstream |
 | [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 79.1k | Pass RUNTIME_HOME=/root for root bake targets |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 77k | Keep grpc response errors out of the request stream |
-| [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.5k | Stop update_me setting self-referential changed_by_fk |
+| [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.4k | Stop update_me setting self-referential changed_by_fk |
 | [openbq-org/OpenBB #7800](https://github.com/openbq-org/OpenBB/pull/7800) | 75.2k | [BugFix] `openbb-cli`: Make Codegen Names That Start With a Digit or Are Keywords Valid |
 | [Fission-AI/OpenSpec #2028](https://github.com/Fission-AI/OpenSpec/pull/2028) | 74.2k | Find spec and design artifacts by output path |
 | [Fission-AI/OpenSpec #2052](https://github.com/Fission-AI/OpenSpec/pull/2052) | 74.2k | Allow symlinked openspec/changes and specs |
@@ -179,21 +179,21 @@
 | [unstablebuild/rune #182](https://github.com/unstablebuild/rune/pull/182) | 1.5k | Fix db, dB and cb deleting the character under the cursor |
 | [unstablebuild/rune #185](https://github.com/unstablebuild/rune/pull/185) | 1.5k | Fix f/F/t/T and ;/, dropping visual mode |
 | [mixelpixx/Konnect #726](https://github.com/mixelpixx/Konnect/pull/726) | 1.5k | Match search_jlcpcb_parts queries word by word |
-| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 1.2k | Read a native label for any labelable element, not just form fields |
-| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 1.2k | Stop telling a bare-getter store that no store is registered |
-| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 1.2k | Stop treating a bumped version token as a dropped write |
-| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.2k | Recognise a corepack-only package manager instead of refusing it |
-| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.2k | Reject unrecognised seedStorage keys instead of stripping them |
-| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.2k | Count a live session as connection evidence in initialize |
-| [reticlehq/reticle #1381](https://github.com/reticlehq/reticle/pull/1381) | 1.2k | Keep the lease marker across a server redirect (#1352) |
-| [reticlehq/reticle #1382](https://github.com/reticlehq/reticle/pull/1382) | 1.2k | Read gate and watch coverage per flow, not from the newest run |
-| [reticlehq/reticle #1605](https://github.com/reticlehq/reticle/pull/1605) | 1.2k | Gate names flows without sources instead of claiming nothing drove the file |
+| [reticlehq/reticle #1169](https://github.com/reticlehq/reticle/pull/1169) | 1.3k | Read a native label for any labelable element, not just form fields |
+| [reticlehq/reticle #1170](https://github.com/reticlehq/reticle/pull/1170) | 1.3k | Stop telling a bare-getter store that no store is registered |
+| [reticlehq/reticle #1182](https://github.com/reticlehq/reticle/pull/1182) | 1.3k | Stop treating a bumped version token as a dropped write |
+| [reticlehq/reticle #1183](https://github.com/reticlehq/reticle/pull/1183) | 1.3k | Recognise a corepack-only package manager instead of refusing it |
+| [reticlehq/reticle #1188](https://github.com/reticlehq/reticle/pull/1188) | 1.3k | Reject unrecognised seedStorage keys instead of stripping them |
+| [reticlehq/reticle #1192](https://github.com/reticlehq/reticle/pull/1192) | 1.3k | Count a live session as connection evidence in initialize |
+| [reticlehq/reticle #1381](https://github.com/reticlehq/reticle/pull/1381) | 1.3k | Keep the lease marker across a server redirect (#1352) |
+| [reticlehq/reticle #1382](https://github.com/reticlehq/reticle/pull/1382) | 1.3k | Read gate and watch coverage per flow, not from the newest run |
+| [reticlehq/reticle #1605](https://github.com/reticlehq/reticle/pull/1605) | 1.3k | Gate names flows without sources instead of claiming nothing drove the file |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 1k | Accept the dsh provider in PricingProviderSchema |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 888 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
 | [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 854 | Set the Apple deployment target for rustc from the linker args |
-| [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 752 | Add h/l as panel-nav aliases to help and docs |
-| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 644 | Keep queued message out of the reply line and quote the approval question |
-| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 644 | Keep pending messages out of the reply line |
+| [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 754 | Add h/l as panel-nav aliases to help and docs |
+| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 646 | Keep queued message out of the reply line and quote the approval question |
+| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 646 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 517 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 517 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 517 | Resolve path arguments through one resolver (closes #3988) |

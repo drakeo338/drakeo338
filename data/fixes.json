@@ -30,6 +30,7 @@
   "MetaCubeX/mihomo#3283": "Keep fake-ip allocation state when cloning the pool on reload",
   "NVIDIA/SkillSpector#637": "Fingerprint every occurrence of a deduplicated finding",
   "NVIDIA/SkillSpector#774": "Honor optionalDependencies in package.json extraction",
+  "OpenMontageInc/OpenMontage#773": "Reject unusable ffprobe duration when fading out a track",
   "QwenLM/qwen-code#13077": "Report a spawn failure of the CLI child instead of exiting silently",
   "Soju06/codex-lb#2517": "Map codex_cli_rs user agent to codex-cli family",
   "StellarTickets/backend#322": "Normalize email to lowercase on register and login",

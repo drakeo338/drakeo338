@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/card-dark-m.svg">
   <source media="(max-width: 640px)" srcset="assets/card-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Y.B. (drakeo338). 173 open-source fixes merged into 99 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
+  <img alt="Y.B. (drakeo338). 174 open-source fixes merged into 100 projects, including LangChain OpenWiki, MapLibre GL JS, Tencent BrowserSkill, Bazel rules_rust, Pake, VoiceStudio, Hindsight and DB-GPT. In memory of Drakeo the Ruler (1993-2021)." src="assets/card-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -31,22 +31,22 @@
 <!-- merged:start -->
 | Project | Stars | Fix |
 |---|--:|---|
-| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.1k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 299.1k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 299.1k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.5k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.7k | Require --video-materials for the local video source |
+| [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.2k | Pass the responding agent to summary model acquisition |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 299.3k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 299.3k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 146.6k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 140.8k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 117.8k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.4k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.4k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 103.8k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 103.8k | Say a long reference is too long when no speech-to-text model is installed |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 114.6k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 114.6k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 104.1k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 104.1k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.3k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
-| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.4k | Use `margin-trim: block` in the `@property` fallback detection |
-| [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 91.2k | Resolve `from . import NAME` to the package __init__.py |
+| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.6k | Use `margin-trim: block` in the `@property` fallback detection |
+| [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 91.3k | Resolve `from . import NAME` to the package __init__.py |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 87.1k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 87.1k | Count queued next-level URLs against max_pages in BFS |
-| [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 85.8k | Match namespaced bash tool name in the Vibe hook |
+| [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 85.9k | Match namespaced bash tool name in the Vibe hook |
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.1k | Screen web_search result URLs in every provider |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 81.2k | Validate namespace on memory store and memory import |
 | [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 81.2k | Use a key separator the memory validator accepts for edges |
@@ -55,6 +55,7 @@
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 79.1k | Keep the upstream 4xx status on send_message errors |
 | [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 79.1k | Route /v1/models to the x-headroom-base-url upstream |
 | [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 79.1k | Pass RUNTIME_HOME=/root for root bake targets |
+| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 78.4k | Reject unusable ffprobe duration when fading out a track |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 77k | Keep grpc response errors out of the request stream |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.4k | Stop update_me setting self-referential changed_by_fk |
 | [openbq-org/OpenBB #7800](https://github.com/openbq-org/OpenBB/pull/7800) | 75.2k | [BugFix] `openbb-cli`: Make Codegen Names That Start With a Digit or Are Keywords Valid |
@@ -62,15 +63,15 @@
 | [Fission-AI/OpenSpec #2052](https://github.com/Fission-AI/OpenSpec/pull/2052) | 74.2k | Allow symlinked openspec/changes and specs |
 | [strapi/strapi #28017](https://github.com/strapi/strapi/pull/28017) | 73.4k | Unhandled rejection when an entry event fails to emit after commit |
 | [moby/moby #53921](https://github.com/moby/moby/pull/53921) | 72.4k | Don't fail container list when size lookup fails |
-| [cline/cline #14520](https://github.com/cline/cline/pull/14520) | 71.4k | Stop billing image base64 payloads at CHARS_PER_TOKEN |
+| [cline/cline #14520](https://github.com/cline/cline/pull/14520) | 71.5k | Stop billing image base64 payloads at CHARS_PER_TOKEN |
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 70.8k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70.8k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 70.3k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 62.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 60.9k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 59.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 56.3k | Scope Codex prompt cache key to the conversation and send session-id |
-| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 56.3k | Show the picked option's text next to its letter in the grade seed |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 59.8k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 56.5k | Scope Codex prompt cache key to the conversation and send session-id |
+| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 56.5k | Show the picked option's text next to its letter in the grade seed |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.7k | Fixed uncomping a member not cancelling their complimentary subscription |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 55.2k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 55.2k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |

@@ -32,15 +32,15 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.4k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 301.9k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 301.9k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 148.6k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 142.9k | Require --video-materials for the local video source |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 302k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 302k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 148.7k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 143k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 118.2k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 116.5k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 116.5k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 109.1k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 109.1k | Say a long reference is too long when no speech-to-text model is installed |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 116.6k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 116.6k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 109.2k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 109.2k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.3k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
 | [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.6k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 92.4k | Resolve `from . import NAME` to the package __init__.py |
@@ -67,11 +67,11 @@
 | [code-yeongyu/oh-my-openagent #9242](https://github.com/code-yeongyu/oh-my-openagent/pull/9242) | 70.9k | Sandbox OMO_MEMORY_HOME in isolatedChildEnv |
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 70.9k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 70.5k | Let the extension pick between OLE2 legacy Office formats |
-| [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 63.4k | Set `StartupWMClass` so Linux docks match the window to its launcher |
+| [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 63.5k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 61k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 60.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 58.6k | Scope Codex prompt cache key to the conversation and send session-id |
-| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 58.6k | Show the picked option's text next to its letter in the grade seed |
+| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 58.7k | Scope Codex prompt cache key to the conversation and send session-id |
+| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 58.7k | Show the picked option's text next to its letter in the grade seed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 55.9k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 55.9k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.8k | Fixed uncomping a member not cancelling their complimentary subscription |
@@ -100,7 +100,7 @@
 | [vercel/turborepo #14418](https://github.com/vercel/turborepo/pull/14418) | 31.3k | Preserve symlinked AGENTS.md when updating agent guidance |
 | [vercel/turborepo #14868](https://github.com/vercel/turborepo/pull/14868) | 31.3k | Exit quietly when `turbo ls` output is piped to a closed reader |
 | [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 30.2k | Suggest columns inside select-list function calls (Fixes #10170) |
-| [QwenLM/qwen-code #13077](https://github.com/QwenLM/qwen-code/pull/13077) | 29.7k | Report a spawn failure of the CLI child instead of exiting silently |
+| [QwenLM/qwen-code #13077](https://github.com/QwenLM/qwen-code/pull/13077) | 29.8k | Report a spawn failure of the CLI child instead of exiting silently |
 | [fyne-io/fyne #6574](https://github.com/fyne-io/fyne/pull/6574) | 28.8k | Fix external tree binding ignoring changes to ids on Reload |
 | [mihomo-party-org/clash-party #2248](https://github.com/mihomo-party-org/clash-party/pull/2248) | 27.2k | Retry admin privilege check on timeout instead of caching false |
 | [angular/angular-cli #34400](https://github.com/angular/angular-cli/pull/34400) | 27k | Add integrity metadata for all initial chunks beyond the module preload limit |
@@ -112,7 +112,7 @@
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 17.9k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 17.9k | Accept github line anchors on markdown link targets |
 | [Automattic/harper #4450](https://github.com/Automattic/harper/pull/4450) | 17.6k | Don't insert a space between ¥ and the amount |
-| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 17.2k | Skip pause dispatch for an already Paused BatchSandbox |
+| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 17.3k | Skip pause dispatch for an already Paused BatchSandbox |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
 | [rjsf-team/react-jsonschema-form #5443](https://github.com/rjsf-team/react-jsonschema-form/pull/5443) | 15.9k | List an extraErrors message once when it matches a validator error |
 | [rjsf-team/react-jsonschema-form #5450](https://github.com/rjsf-team/react-jsonschema-form/pull/5450) | 15.9k | ColSpan map fallthrough and schema-type defaults in ObjectFieldTemplate |
@@ -131,7 +131,7 @@
 | [MakazhanAlpamys/Soup #1479](https://github.com/MakazhanAlpamys/Soup/pull/1479) | 10.5k | Honour --device in the transformers loader |
 | [MakazhanAlpamys/Soup #1709](https://github.com/MakazhanAlpamys/Soup/pull/1709) | 10.5k | Report a reusable layer-shard cache at its real size in the disk pre-flight |
 | [MakazhanAlpamys/Soup #2063](https://github.com/MakazhanAlpamys/Soup/pull/2063) | 10.5k | Read bfloat16 adapters in adapters check and adapters diff (#2058) |
-| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 10.3k | Re-arm lazy tools from history after a plugin reload |
+| [Tencent/BrowserSkill #283](https://github.com/Tencent/BrowserSkill/pull/283) | 10.4k | Re-arm lazy tools from history after a plugin reload |
 | [alvinunreal/oh-my-opencode-slim #1369](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1369) | 10.2k | Keep checkpoint snapshot ids unique across restarts |
 | [alvinunreal/oh-my-opencode-slim #1458](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1458) | 10.2k | Keep board snapshots whose anchors survive compaction |
 | [alvinunreal/oh-my-opencode-slim #1468](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1468) | 10.2k | Never store a raw session ID as the agent name |
@@ -189,10 +189,10 @@
 | [reticlehq/reticle #1605](https://github.com/reticlehq/reticle/pull/1605) | 1.3k | Gate names flows without sources instead of claiming nothing drove the file |
 | [desplega-ai/agent-swarm #1652](https://github.com/desplega-ai/agent-swarm/pull/1652) | 1k | Accept the dsh provider in PricingProviderSchema |
 | [rust-fuzz/arbitrary #242](https://github.com/rust-fuzz/arbitrary/pull/242) | 889 | Move `derive_arbitrary` to syn 3 and raise the MSRV to 1.71 |
-| [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 855 | Set the Apple deployment target for rustc from the linker args |
+| [bazelbuild/rules_rust #4282](https://github.com/bazelbuild/rules_rust/pull/4282) | 856 | Set the Apple deployment target for rustc from the linker args |
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 766 | Add h/l as panel-nav aliases to help and docs |
-| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 690 | Keep queued message out of the reply line and quote the approval question |
-| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 690 | Keep pending messages out of the reply line |
+| [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 692 | Keep queued message out of the reply line and quote the approval question |
+| [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 692 | Keep pending messages out of the reply line |
 | [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 528 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
 | [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 528 | Match latency report by path, not length delta (closes #3642) |
 | [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 528 | Resolve path arguments through one resolver (closes #3988) |

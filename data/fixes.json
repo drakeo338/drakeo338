@@ -118,6 +118,7 @@
   "remult/remult#1047": "Update() with undefined/null id fails with not-found error",
   "repowise-dev/repowise#2632": "Surface a fetch error in TestsReachingList",
   "repowise-dev/repowise#2639": "Keep a matched rg path even at the repo root",
+  "restic/restic#22086": "Restorer: rewrite partially matching hard-linked files in full",
   "reticlehq/reticle#1169": "Read a native label for any labelable element, not just form fields",
   "reticlehq/reticle#1170": "Stop telling a bare-getter store that no store is registered",
   "reticlehq/reticle#1182": "Stop treating a bumped version token as a dropped write",

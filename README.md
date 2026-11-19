@@ -32,30 +32,30 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.8k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 306.4k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 306.4k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 151.3k | Keep icon generator from corrupting SVGs or truncating output |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 306.6k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 306.6k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 151.4k | Keep icon generator from corrupting SVGs or truncating output |
 | [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 144.5k | Require --video-materials for the local video source |
-| [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 118.8k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 118.2k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 118.2k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 113.5k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 113.5k | Say a long reference is too long when no speech-to-text model is installed |
+| [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 118.9k | WebGLBackend: Fix clear() with a disabled color write mask. |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 118.3k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 118.3k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 113.6k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 113.6k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.4k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
-| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.8k | Use `margin-trim: block` in the `@property` fallback detection |
+| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.6k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 93.2k | Resolve `from . import NAME` to the package __init__.py |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 87.5k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 87.5k | Count queued next-level URLs against max_pages in BFS |
 | [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 87.1k | Match namespaced bash tool name in the Vibe hook |
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.5k | Screen web_search result URLs in every provider |
-| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 82k | Validate namespace on memory store and memory import |
-| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 82k | Use a key separator the memory validator accepts for edges |
-| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 81.5k | Reject unusable ffprobe duration when fading out a track |
+| [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 82.1k | Validate namespace on memory store and memory import |
+| [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 82.1k | Use a key separator the memory validator accepts for edges |
+| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 81.6k | Reject unusable ffprobe duration when fading out a track |
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 80.1k | Keep the upstream 4xx status on send_message errors |
 | [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 80.1k | Route /v1/models to the x-headroom-base-url upstream |
 | [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 80.1k | Pass RUNTIME_HOME=/root for root bake targets |
-| [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 79.7k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
-| [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 79.7k | Studio: do not re-send the image generate POST after a dropped connection |
+| [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 79.8k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
+| [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 79.8k | Studio: do not re-send the image generate POST after a dropped connection |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 77.1k | Keep grpc response errors out of the request stream |
 | [apache/superset #44866](https://github.com/apache/superset/pull/44866) | 75.6k | Stop update_me setting self-referential changed_by_fk |
 | [openbq-org/OpenBB #7800](https://github.com/openbq-org/OpenBB/pull/7800) | 75.5k | [BugFix] `openbb-cli`: Make Codegen Names That Start With a Digit or Are Keywords Valid |
@@ -70,8 +70,8 @@
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 63.8k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 61.8k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 61.1k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
-| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 60.4k | Scope Codex prompt cache key to the conversation and send session-id |
-| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 60.4k | Show the picked option's text next to its letter in the grade seed |
+| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 60.5k | Scope Codex prompt cache key to the conversation and send session-id |
+| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 60.5k | Show the picked option's text next to its letter in the grade seed |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 56.6k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 56.6k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |
 | [TryGhost/Ghost #31511](https://github.com/TryGhost/Ghost/pull/31511) | 55.9k | Fixed uncomping a member not cancelling their complimentary subscription |
@@ -88,8 +88,8 @@
 | [ueberdosis/tiptap #8414](https://github.com/ueberdosis/tiptap/pull/8414) | 39.1k | Escape a literal exclamation mark before a link |
 | [TriliumNext/Trilium #11895](https://github.com/TriliumNext/Trilium/pull/11895) | 39k | Refresh the Markdown preview on note switch |
 | [restic/restic #22086](https://github.com/restic/restic/pull/22086) | 37.3k | Restorer: rewrite partially matching hard-linked files in full |
-| [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.5k | A run that committed undefined is not WASTED_RECOMPUTE |
-| [solidjs/solid #3730](https://github.com/solidjs/solid/pull/3730) | 36.5k | Exit raw text mode after a self-closing raw text element |
+| [solidjs/solid #3716](https://github.com/solidjs/solid/pull/3716) | 36.6k | A run that committed undefined is not WASTED_RECOMPUTE |
+| [solidjs/solid #3730](https://github.com/solidjs/solid/pull/3730) | 36.6k | Exit raw text mode after a self-closing raw text element |
 | [MetaCubeX/mihomo #3283](https://github.com/MetaCubeX/mihomo/pull/3283) | 35.9k | Keep fake-ip allocation state when cloning the pool on reload |
 | [dgtlmoon/changedetection.io #4495](https://github.com/dgtlmoon/changedetection.io/pull/4495) | 35.9k | Restock: don't blame stock data when restock detection is off |
 | [qdrant/qdrant #10870](https://github.com/qdrant/qdrant/pull/10870) | 35.6k | Fix merge and search with an empty multivector placeholder |
@@ -155,7 +155,7 @@
 | [kirodotdev/KiroCrew #15127](https://github.com/kirodotdev/KiroCrew/pull/15127) | 5k | Keep deleted semantic facts deleted on automated writes |
 | [kirodotdev/KiroCrew #15233](https://github.com/kirodotdev/KiroCrew/pull/15233) | 5k | Log a missing spool without a traceback |
 | [skyhook-io/radar #1895](https://github.com/skyhook-io/radar/pull/1895) | 4.2k | Detect revisioned `istiod` deployments by label |
-| [Soju06/codex-lb #2517](https://github.com/Soju06/codex-lb/pull/2517) | 3.4k | Map codex_cli_rs user agent to codex-cli family |
+| [Soju06/codex-lb #2517](https://github.com/Soju06/codex-lb/pull/2517) | 3.5k | Map codex_cli_rs user agent to codex-cli family |
 | [neomjs/neo #19154](https://github.com/neomjs/neo/pull/19154) | 3.3k | `isA()` walks past `component.Base` to any ancestor |
 | [remult/remult #1047](https://github.com/remult/remult/pull/1047) | 3.2k | Update() with undefined/null id fails with not-found error |
 | [snapotter-hq/SnapOtter #1229](https://github.com/snapotter-hq/SnapOtter/pull/1229) | 3k | Auto-orient no longer re-compresses photos at default quality |

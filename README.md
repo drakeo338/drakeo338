@@ -32,15 +32,15 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 394.8k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 307.2k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 307.2k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 151.7k | Keep icon generator from corrupting SVGs or truncating output |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 307.3k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 307.3k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 151.8k | Keep icon generator from corrupting SVGs or truncating output |
 | [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 144.7k | Require --video-materials for the local video source |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 119k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 118.4k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 118.4k | Skip V2 setup when the context has no checkout directory |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 114.2k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 114.2k | Say a long reference is too long when no speech-to-text model is installed |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 118.5k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 118.5k | Skip V2 setup when the context has no checkout directory |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 114.4k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 114.4k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.4k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
 | [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.7k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 93.3k | Resolve `from . import NAME` to the package __init__.py |
@@ -50,7 +50,7 @@
 | [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.5k | Screen web_search result URLs in every provider |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 82.1k | Validate namespace on memory store and memory import |
 | [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 82.1k | Use a key separator the memory validator accepts for edges |
-| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 81.7k | Reject unusable ffprobe duration when fading out a track |
+| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 81.8k | Reject unusable ffprobe duration when fading out a track |
 | [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 80.2k | Keep the upstream 4xx status on send_message errors |
 | [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 80.2k | Route /v1/models to the x-headroom-base-url upstream |
 | [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 80.2k | Pass RUNTIME_HOME=/root for root bake targets |
@@ -68,7 +68,7 @@
 | [code-yeongyu/oh-my-openagent #9674](https://github.com/code-yeongyu/oh-my-openagent/pull/9674) | 71k | Ignore shards created before the test process started |
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 70.8k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 63.9k | Set `StartupWMClass` so Linux docks match the window to its launcher |
-| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 62k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
+| [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 62.1k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
 | [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 61.1k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
 | [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 60.8k | Scope Codex prompt cache key to the conversation and send session-id |
 | [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 60.8k | Show the picked option's text next to its letter in the grade seed |
@@ -81,7 +81,7 @@
 | [MHSanaei/3x-ui #6736](https://github.com/MHSanaei/3x-ui/pull/6736) | 50.2k | List clients in the detach/attach modals when they mount open |
 | [abhigyanpatwari/GitNexus #3478](https://github.com/abhigyanpatwari/GitNexus/pull/3478) | 48.7k | Run Leiden in a worker so its timeout can fire |
 | [zhayujie/CowAgent #3357](https://github.com/zhayujie/CowAgent/pull/3357) | 48k | Find the git sub-command after global options in read-only mode |
-| [soxoj/maigret #3198](https://github.com/soxoj/maigret/pull/3198) | 41k | Disable CGTrader behind AWS WAF challenge |
+| [soxoj/maigret #3198](https://github.com/soxoj/maigret/pull/3198) | 41.1k | Disable CGTrader behind AWS WAF challenge |
 | [gofiber/fiber #4728](https://github.com/gofiber/fiber/pull/4728) | 40.3k | 🐛 bug: reject static partial wildcard matches that cross a path segment boundary |
 | [umami-software/umami #4648](https://github.com/umami-software/umami/pull/4648) | 40.2k | Fix heatmap snapshot height being set by a single tall outlier click |
 | [google/langextract #577](https://github.com/google/langextract/pull/577) | 39.3k | Stop dict_to_annotated_document from mutating its input |
@@ -100,14 +100,14 @@
 | [floci-io/floci #6056](https://github.com/floci-io/floci/pull/6056) | 32k | Hold an ACM certificate in use while a listener serves it |
 | [vercel/turborepo #14418](https://github.com/vercel/turborepo/pull/14418) | 31.4k | Preserve symlinked AGENTS.md when updating agent guidance |
 | [vercel/turborepo #14868](https://github.com/vercel/turborepo/pull/14868) | 31.4k | Exit quietly when `turbo ls` output is piped to a closed reader |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 30.9k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 31k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [QwenLM/qwen-code #13077](https://github.com/QwenLM/qwen-code/pull/13077) | 30.8k | Report a spawn failure of the CLI child instead of exiting silently |
-| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 30.4k | Reposition help card as formula text grows |
-| [fyne-io/fyne #6574](https://github.com/fyne-io/fyne/pull/6574) | 28.9k | Fix external tree binding ignoring changes to ids on Reload |
+| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 30.5k | Reposition help card as formula text grows |
+| [fyne-io/fyne #6574](https://github.com/fyne-io/fyne/pull/6574) | 28.8k | Fix external tree binding ignoring changes to ids on Reload |
 | [mihomo-party-org/clash-party #2248](https://github.com/mihomo-party-org/clash-party/pull/2248) | 27.3k | Retry admin privilege check on timeout instead of caching false |
 | [angular/angular-cli #34400](https://github.com/angular/angular-cli/pull/34400) | 27k | Add integrity metadata for all initial chunks beyond the module preload limit |
-| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 26.9k | Fingerprint every occurrence of a deduplicated finding |
-| [NVIDIA/SkillSpector #774](https://github.com/NVIDIA/SkillSpector/pull/774) | 26.9k | Honor optionalDependencies in package.json extraction |
+| [NVIDIA/SkillSpector #637](https://github.com/NVIDIA/SkillSpector/pull/637) | 27k | Fingerprint every occurrence of a deduplicated finding |
+| [NVIDIA/SkillSpector #774](https://github.com/NVIDIA/SkillSpector/pull/774) | 27k | Honor optionalDependencies in package.json extraction |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.3k | Connector confirm endpoints now require the API key |
 | [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.6k | [naga wgsl-in] Reject loads of types that contain atomics |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 18k | Replace a legacy OpenWiki section instead of appending a duplicate |
@@ -202,7 +202,7 @@
 | [Cotal-AI/Cotal #2668](https://github.com/Cotal-AI/Cotal/pull/2668) | 403 | Report the last probe outcome when detached readiness times out |
 | [Cotal-AI/Cotal #2694](https://github.com/Cotal-AI/Cotal/pull/2694) | 403 | Read the deregister issuance gate through core's reader |
 | [Cotal-AI/Cotal #4080](https://github.com/Cotal-AI/Cotal/pull/4080) | 403 | Ignore a model check that settles after teardown |
-| [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 322 | Accept plain lists in PYODScoreEnsembler.transform_partial |
+| [selimfirat/pysad #213](https://github.com/selimfirat/pysad/pull/213) | 321 | Accept plain lists in PYODScoreEnsembler.transform_partial |
 | [StellarTickets/backend #322](https://github.com/StellarTickets/backend/pull/322) | 0 | Normalize email to lowercase on register and login |
 <!-- merged:end -->
 

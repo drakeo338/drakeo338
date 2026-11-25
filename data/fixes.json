@@ -92,6 +92,7 @@
   "kirodotdev/KiroCrew#15233": "Log a missing spool without a traceback",
   "langchain-ai/openwiki#914": "Replace a legacy OpenWiki section instead of appending a duplicate",
   "langchain-ai/openwiki#986": "Accept github line anchors on markdown link targets",
+  "lvgl/lvgl#10850": "Validate kerning classes in the binary font loader",
   "maplibre/maplibre-gl-js#8553": "Globe camera no longer throws when padding exceeds the viewport",
   "maplibre/maplibre-gl-js#8554": "Color relief no longer packs to NaN when a DEM channel factor is 0",
   "mihomo-party-org/clash-party#2248": "Retry admin privilege check on timeout instead of caching false",

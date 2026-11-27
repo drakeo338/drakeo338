@@ -32,28 +32,28 @@
 | Project | Stars | Fix |
 |---|--:|---|
 | [openclaw/openclaw #161454](https://github.com/openclaw/openclaw/pull/161454) | 395.3k | Pass the responding agent to summary model acquisition |
-| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 311.2k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
-| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 311.2k | Raise on unparseable skill-comply classifier output |
-| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 154.6k | Keep icon generator from corrupting SVGs or truncating output |
-| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 145.8k | Require --video-materials for the local video source |
-| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 119.9k | Show help for install, update, uninstall and other action verbs instead of running them |
-| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 119.9k | Skip V2 setup when the context has no checkout directory |
+| [affaan-m/ECC #3267](https://github.com/affaan-m/ECC/pull/3267) | 311.3k | Honor CLAUDE_CONFIG_DIR for the default agent data home |
+| [affaan-m/ECC #3525](https://github.com/affaan-m/ECC/pull/3525) | 311.3k | Raise on unparseable skill-comply classifier output |
+| [nextlevelbuilder/ui-ux-pro-max-skill #526](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/526) | 154.7k | Keep icon generator from corrupting SVGs or truncating output |
+| [harry0703/MoneyPrinterTurbo #1585](https://github.com/harry0703/MoneyPrinterTurbo/pull/1585) | 145.9k | Require --video-materials for the local video source |
+| [thedotmack/claude-mem #4767](https://github.com/thedotmack/claude-mem/pull/4767) | 120k | Show help for install, update, uninstall and other action verbs instead of running them |
+| [thedotmack/claude-mem #4879](https://github.com/thedotmack/claude-mem/pull/4879) | 120k | Skip V2 setup when the context has no checkout directory |
 | [mrdoob/three.js #34729](https://github.com/mrdoob/three.js/pull/34729) | 119.5k | WebGLBackend: Fix clear() with a disabled color write mask. |
-| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 118.8k | Name every Kokoro language from the installed table |
-| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 118.8k | Say a long reference is too long when no speech-to-text model is installed |
+| [debpalash/VoiceStudio #2174](https://github.com/debpalash/VoiceStudio/pull/2174) | 118.9k | Name every Kokoro language from the installed table |
+| [debpalash/VoiceStudio #2444](https://github.com/debpalash/VoiceStudio/pull/2444) | 118.9k | Say a long reference is too long when no speech-to-text model is installed |
 | [mui/material-ui #49481](https://github.com/mui/material-ui/pull/49481) | 99.4k | [material-ui] Fix `theme.vars` types for zIndex, opacity and action opacities |
-| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.8k | Use `margin-trim: block` in the `@property` fallback detection |
+| [tailwindlabs/tailwindcss #20569](https://github.com/tailwindlabs/tailwindcss/pull/20569) | 98.9k | Use `margin-trim: block` in the `@property` fallback detection |
 | [Egonex-AI/Understand-Anything #728](https://github.com/Egonex-AI/Understand-Anything/pull/728) | 94.6k | Resolve `from . import NAME` to the package __init__.py |
 | [unclecode/crawl4ai #2329](https://github.com/unclecode/crawl4ai/pull/2329) | 88k | Keep a space where a whitespace-only element is removed |
 | [unclecode/crawl4ai #2339](https://github.com/unclecode/crawl4ai/pull/2339) | 88k | Count queued next-level URLs against max_pages in BFS |
-| [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 87.9k | Match namespaced bash tool name in the Vibe hook |
-| [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.8k | Screen web_search result URLs in every provider |
-| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 83.6k | Reject unusable ffprobe duration when fading out a track |
+| [rtk-ai/rtk #4356](https://github.com/rtk-ai/rtk/pull/4356) | 88k | Match namespaced bash tool name in the Vibe hook |
+| [bytedance/deer-flow #7037](https://github.com/bytedance/deer-flow/pull/7037) | 85.9k | Screen web_search result URLs in every provider |
+| [OpenMontageInc/OpenMontage #773](https://github.com/OpenMontageInc/OpenMontage/pull/773) | 83.7k | Reject unusable ffprobe duration when fading out a track |
 | [ruvnet/ruflo #3571](https://github.com/ruvnet/ruflo/pull/3571) | 82.5k | Validate namespace on memory store and memory import |
 | [ruvnet/ruflo #3636](https://github.com/ruvnet/ruflo/pull/3636) | 82.5k | Use a key separator the memory validator accepts for edges |
-| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 80.9k | Keep the upstream 4xx status on send_message errors |
-| [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 80.9k | Route /v1/models to the x-headroom-base-url upstream |
-| [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 80.9k | Pass RUNTIME_HOME=/root for root bake targets |
+| [headroomlabs-ai/headroom #3944](https://github.com/headroomlabs-ai/headroom/pull/3944) | 81k | Keep the upstream 4xx status on send_message errors |
+| [headroomlabs-ai/headroom #4308](https://github.com/headroomlabs-ai/headroom/pull/4308) | 81k | Route /v1/models to the x-headroom-base-url upstream |
+| [headroomlabs-ai/headroom #4445](https://github.com/headroomlabs-ai/headroom/pull/4445) | 81k | Pass RUNTIME_HOME=/root for root bake targets |
 | [unslothai/unsloth #12733](https://github.com/unslothai/unsloth/pull/12733) | 80.3k | Studio: leave a bracketed IPv6 host unchanged in dial_host |
 | [unslothai/unsloth #13790](https://github.com/unslothai/unsloth/pull/13790) | 80.3k | Studio: do not re-send the image generate POST after a dropped connection |
 | [nestjs/nest #17972](https://github.com/nestjs/nest/pull/17972) | 77.2k | Keep grpc response errors out of the request stream |
@@ -69,8 +69,8 @@
 | [docling-project/docling #4476](https://github.com/docling-project/docling/pull/4476) | 71.1k | Let the extension pick between OLE2 legacy Office formats |
 | [tw93/Pake #1393](https://github.com/tw93/Pake/pull/1393) | 64.1k | Set `StartupWMClass` so Linux docks match the window to its launcher |
 | [vectorize-io/hindsight #4752](https://github.com/vectorize-io/hindsight/pull/4752) | 63.7k | Pass `anthropic.Timeout` so requests stop failing on anthropic 1.x |
-| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 63.2k | Scope Codex prompt cache key to the conversation and send session-id |
-| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 63.2k | Show the picked option's text next to its letter in the grade seed |
+| [HKUDS/DeepTutor #1992](https://github.com/HKUDS/DeepTutor/pull/1992) | 63.3k | Scope Codex prompt cache key to the conversation and send session-id |
+| [HKUDS/DeepTutor #2000](https://github.com/HKUDS/DeepTutor/pull/2000) | 63.3k | Show the picked option's text next to its letter in the grade seed |
 | [rclone/rclone #10040](https://github.com/rclone/rclone/pull/10040) | 61.3k | Webdav: fix Nextcloud public share access by sending X-Requested-With |
 | [multica-ai/multica #8967](https://github.com/multica-ai/multica/pull/8967) | 58.1k | MUL-7816 fix(taskfailure): classify a 403 usage limit as provider quota, not auth |
 | [multica-ai/multica #9018](https://github.com/multica-ai/multica/pull/9018) | 58.1k | MUL-7847 fix(task): comment terminal failure on issue when sweeper fails task |
@@ -98,8 +98,8 @@
 | [floci-io/floci #5120](https://github.com/floci-io/floci/pull/5120) | 32.1k | Reject an ExecuteStatement response over 1 MiB |
 | [floci-io/floci #5981](https://github.com/floci-io/floci/pull/5981) | 32.1k | Run MySQL and MariaDB with their parameter group values |
 | [floci-io/floci #6056](https://github.com/floci-io/floci/pull/6056) | 32.1k | Hold an ACM certificate in use while a listener serves it |
-| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 31.9k | Reposition help card as formula text grows |
-| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 31.5k | Suggest columns inside select-list function calls (Fixes #10170) |
+| [dream-num/univer #7744](https://github.com/dream-num/univer/pull/7744) | 32k | Reposition help card as formula text grows |
+| [t8y2/dbx #10275](https://github.com/t8y2/dbx/pull/10275) | 31.6k | Suggest columns inside select-list function calls (Fixes #10170) |
 | [vercel/turborepo #14418](https://github.com/vercel/turborepo/pull/14418) | 31.4k | Preserve symlinked AGENTS.md when updating agent guidance |
 | [vercel/turborepo #14868](https://github.com/vercel/turborepo/pull/14868) | 31.4k | Exit quietly when `turbo ls` output is piped to a closed reader |
 | [QwenLM/qwen-code #13077](https://github.com/QwenLM/qwen-code/pull/13077) | 31k | Report a spawn failure of the CLI child instead of exiting silently |
@@ -110,11 +110,11 @@
 | [angular/angular-cli #34400](https://github.com/angular/angular-cli/pull/34400) | 27k | Add integrity metadata for all initial chunks beyond the module preload limit |
 | [lvgl/lvgl #10850](https://github.com/lvgl/lvgl/pull/10850) | 25.3k | Validate kerning classes in the binary font loader |
 | [eosphoros-ai/DB-GPT #3264](https://github.com/eosphoros-ai/DB-GPT/pull/3264) | 20.3k | Connector confirm endpoints now require the API key |
-| [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.6k | [naga wgsl-in] Reject loads of types that contain atomics |
+| [gfx-rs/wgpu #10458](https://github.com/gfx-rs/wgpu/pull/10458) | 18.7k | [naga wgsl-in] Reject loads of types that contain atomics |
 | [langchain-ai/openwiki #914](https://github.com/langchain-ai/openwiki/pull/914) | 18.1k | Replace a legacy OpenWiki section instead of appending a duplicate |
 | [langchain-ai/openwiki #986](https://github.com/langchain-ai/openwiki/pull/986) | 18.1k | Accept github line anchors on markdown link targets |
 | [Automattic/harper #4450](https://github.com/Automattic/harper/pull/4450) | 18k | Don't insert a space between ¥ and the amount |
-| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 17.9k | Skip pause dispatch for an already Paused BatchSandbox |
+| [opensandbox-group/OpenSandbox #2082](https://github.com/opensandbox-group/OpenSandbox/pull/2082) | 18k | Skip pause dispatch for an already Paused BatchSandbox |
 | [rjsf-team/react-jsonschema-form #5397](https://github.com/rjsf-team/react-jsonschema-form/pull/5397) | 15.9k | Fix getDateTimeLocalValue() for epoch numbers and Date values |
 | [rjsf-team/react-jsonschema-form #5443](https://github.com/rjsf-team/react-jsonschema-form/pull/5443) | 15.9k | List an extraErrors message once when it matches a validator error |
 | [rjsf-team/react-jsonschema-form #5450](https://github.com/rjsf-team/react-jsonschema-form/pull/5450) | 15.9k | ColSpan map fallthrough and schema-type defaults in ObjectFieldTemplate |
@@ -142,7 +142,7 @@
 | [repowise-dev/repowise #2639](https://github.com/repowise-dev/repowise/pull/2639) | 8.3k | Keep a matched rg path even at the repo root |
 | [ArcReel/ArcReel #2787](https://github.com/ArcReel/ArcReel/pull/2787) | 6.8k | 为 Gemini 3.1 Flash Lite 与 Qwen3.6 Plus / Flash 声明图片理解能力 |
 | [ArcReel/ArcReel #2927](https://github.com/ArcReel/ArcReel/pull/2927) | 6.8k | Reject inline base64 that does not decode to PNG, JPEG or WebP |
-| [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 6.3k | Require a vague close for false-concession |
+| [conorbronsdon/avoid-ai-writing #359](https://github.com/conorbronsdon/avoid-ai-writing/pull/359) | 6.4k | Require a vague close for false-concession |
 | [apache/maka #5455](https://github.com/apache/maka/pull/5455) | 6k | Guard the packaged dependency closure with a reviewed ledger |
 | [TabularisDB/tabularis #831](https://github.com/TabularisDB/tabularis/pull/831) | 5.5k | Restore DataGrid scroll position across tab switches |
 | [TabularisDB/tabularis #838](https://github.com/TabularisDB/tabularis/pull/838) | 5.5k | Keep scroll position of grids in multi-result panel |
@@ -195,9 +195,9 @@
 | [Harry-kp/vortix #361](https://github.com/Harry-kp/vortix/pull/361) | 806 | Add h/l as panel-nav aliases to help and docs |
 | [wainmann/agent-manager #643](https://github.com/wainmann/agent-manager/pull/643) | 711 | Keep queued message out of the reply line and quote the approval question |
 | [wainmann/agent-manager #644](https://github.com/wainmann/agent-manager/pull/644) | 711 | Keep pending messages out of the reply line |
-| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 542 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
-| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 542 | Match latency report by path, not length delta (closes #3642) |
-| [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 542 | Resolve path arguments through one resolver (closes #3988) |
+| [apmantza/pi-lens #3486](https://github.com/apmantza/pi-lens/pull/3486) | 543 | Mark late auxiliary coverage at notify time, not at ceiling expiry |
+| [apmantza/pi-lens #3643](https://github.com/apmantza/pi-lens/pull/3643) | 543 | Match latency report by path, not length delta (closes #3642) |
+| [apmantza/pi-lens #3997](https://github.com/apmantza/pi-lens/pull/3997) | 543 | Resolve path arguments through one resolver (closes #3988) |
 | [Cotal-AI/Cotal #2252](https://github.com/Cotal-AI/Cotal/pull/2252) | 412 | Forward observe through the worker bridge |
 | [Cotal-AI/Cotal #2657](https://github.com/Cotal-AI/Cotal/pull/2657) | 412 | Wait briefly for a held extension lock before refusing a load |
 | [Cotal-AI/Cotal #2668](https://github.com/Cotal-AI/Cotal/pull/2668) | 412 | Report the last probe outcome when detached readiness times out |
